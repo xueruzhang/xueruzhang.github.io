@@ -4,8 +4,6 @@ permalink: /publications/
 title: Publications
 ---
 
-Here is my <a href= "https://scholar.google.com/citations?user=PNBO_a4AAAAJ&hl=en">Google Scholar</a> page.
-
 
 <h2>Algorithmic Fairness</h2>
 <ul>
