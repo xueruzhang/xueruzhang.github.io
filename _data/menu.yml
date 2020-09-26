@@ -1,0 +1,32 @@
+
+- title: "Publications"
+  href: "/Publications/"
+
+#- title: "Research"
+#  href: "/research/"
+
+
+
+- title: "Talk"
+  href: "/talk/"
+
+- title: "Service"
+  href: "/service/"
+
+- title: "Teaching"
+  href: "/teaching/"
+
+- title: "Honor"
+  href: "/honor/"
+
+- title: "CV"
+  href: "/cv/"
+
+#- title: "Miscellany"
+#  href: "/miscellany/"
+#  subcategories:
+#    - subtitle: "Talk"
+#      subhref: "/miscellany/talk/"
+#    - subtitle: "Honor"
+#      subhref: "/miscellany/honor/"
+
