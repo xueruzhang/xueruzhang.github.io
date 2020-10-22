@@ -5,6 +5,7 @@ permalink: /miscellany/honor/
 ---
 
 <ul>
+        <li><font size="3"> <i>EECS Rising Stars 2020</i>, University of California, Berkeley, 2020.</font></li>
         <li><font size="3"> <i>Rackham Predoctoral Fellowship</i>, University of Michigan, 2020.</font></li>
         <li><font size="3"> <i>ITA Graduation Day Invited Talk</i>, University of California, San Diego, 2020.</font></li>
         <li><font size="3"> <i>Travel Award</i> in the Conference on Neural Information Processing Systems, 2019.</font></li>
