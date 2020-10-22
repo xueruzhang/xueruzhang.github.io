@@ -12,7 +12,7 @@ Here is my <a href= "https://scholar.google.com/citations?user=PNBO_a4AAAAJ&hl=e
 		<b>How Do Fair Decisions Fare in Long-term Qualification?</b><br>
 		<i><b>X. Zhang*</b>, R. Tu*, Y. Liu, M. Liu, H. Kjellström, K. Zhang and C. Zhang</i><br>
 		In the 34th Conference on Neural Information Processing Systems <b>(NeurIPS)</b>, 2020.<br>
-		<a href="neurips20.pdf"><div class="color-button">pdf</div></a><a href="poster/neurips20.pdf"><div class="color-button">poster</div></a><a href="slides/neurips20.pdf"><div class="color-button">slides</div></a><a href="talk/neurips20.m4v"><div class="color-button">talk</div></a>
+		<a href="neurips20.pdf"><div class="color-button">pdf</div></a><a href="poster/neurips20.pdf"><div class="color-button">poster</div></a><a href="slides/neurips20.pdf"><div class="color-button">slides</div></a><a href="talk/neurips20.m4v"><div class="color-button">talk</div></a><a href="https://github.com/TURuibo/long-term-impact-of-fairness-constraints"><div class="color-button">code</div></a>
 	</li><br>
 	<li>
 		<b>Group Retention when Using Machine Learning in Sequential Decision Making: the Interplay between User Dynamics and Fairness
