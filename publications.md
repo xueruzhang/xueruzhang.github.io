@@ -10,7 +10,7 @@ Here is my <a href= "https://scholar.google.com/citations?user=PNBO_a4AAAAJ&hl=e
 <ul>
 	<li>
 		<b>Improving Fairness and Privacy in Selection Problems</b><br>
-		<i>M. Khalili, <b>X. Zhang*</b>, M. Abroshan and S. Sojoudi</i><br>
+		<i>M. Khalili, <b>X. Zhang</b>, M. Abroshan and S. Sojoudi</i><br>
 		In the 35th AAAI Conference on Artificial Intelligence <b>(AAAI)</b>, 2021.<br>
 		<a href=""><div class="color-button">coming soon</div></a>
 	</li><br>
