@@ -81,7 +81,7 @@ Here is my <a href= "https://scholar.google.com/citations?user=PNBO_a4AAAAJ&hl=e
 		<b>A Robust Energy and Emissions Conscious Cruise Controller for Connected Vehicles with Privacy Considerations
 </b><br>
 		<i>C. Huang, <b>X. Zhang</b>, R. Salehi, T. Ersal and A. Stefanopoulou </i><br>
-		In 2020 American Control Conference <b>(ACC)</b>, 2020.<br>
+		In 2020 American Control Conference <b>(ACC)</b>, <i>ASME Automotive and Transportation Systems <b>Best Paper Award Finalist</b></i>, 2020.<br>
 		<a href="acc.pdf"><div class="color-button">pdf</div></a>
 	</li><br>
 </ul>
