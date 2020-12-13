@@ -12,7 +12,7 @@ Here is my <a href= "https://scholar.google.com/citations?user=PNBO_a4AAAAJ&hl=e
 		<b>Improving Fairness and Privacy in Selection Problems</b><br>
 		<i>M. Khalili, <b>X. Zhang</b>, M. Abroshan and S. Sojoudi</i><br>
 		In the 35th AAAI Conference on Artificial Intelligence <b>(AAAI)</b>, 2021.<br>
-		<a href=""><div class="color-button">coming soon</div></a>
+		<a href="aaai21.pdf"><div class="color-button">pdf</div></a>
 	</li><br>
 	<li>
 		<b>How Do Fair Decisions Fare in Long-term Qualification?</b><br>
@@ -81,7 +81,8 @@ Here is my <a href= "https://scholar.google.com/citations?user=PNBO_a4AAAAJ&hl=e
 		<b>A Robust Energy and Emissions Conscious Cruise Controller for Connected Vehicles with Privacy Considerations
 </b><br>
 		<i>C. Huang, <b>X. Zhang</b>, R. Salehi, T. Ersal and A. Stefanopoulou </i><br>
-		In 2020 American Control Conference <b>(ACC)</b>, <i>ASME Automotive and Transportation Systems <b>Best Paper Award Finalist</b></i>, 2020.<br>
+		In 2020 American Control Conference <b>(ACC)</b>, 2020.<br>
+		<i>ASME Automotive and Transportation Systems <b>Best Paper Award Finalist</b></i><br>
 		<a href="acc.pdf"><div class="color-button">pdf</div></a>
 	</li><br>
 </ul>
