@@ -5,6 +5,8 @@ permalink: /miscellany/honor/
 ---
 
 <ul>
+        <li><font size="3"> <i>Towner Prize for Outstanding Ph.D. Research</i>, Departmental Nominee, 2020.</font></li>
+        <li><font size="3"> <i>S. Lipschitz, M. A. Host and A. O. Smith Awards</i>, Departmental Nominee, 2020.</font></li>
         <li><font size="3"> <i>EECS Rising Stars</i>, University of California, Berkeley, 2020.</font></li>
         <li><font size="3"> <i>Rackham Predoctoral Fellowship</i>, University of Michigan, 2020.</font></li>
         <li><font size="3"> <i>ITA Graduation Day Invited Talk</i>, University of California, San Diego, 2020.</font></li>
