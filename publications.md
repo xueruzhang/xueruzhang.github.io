@@ -85,6 +85,13 @@ Here is my <a href= "https://scholar.google.com/citations?user=PNBO_a4AAAAJ&hl=e
 		<i>ASME Automotive and Transportation Systems <b>Best Paper Award Finalist</b></i><br>
 		<a href="acc.pdf"><div class="color-button">pdf</div></a>
 	</li><br>
+	<li>
+		<b>Designing Contracts for Trading Private and Heterogeneous Data Using a Biased Differentially Private Algorithm
+</b><br>
+		<i>M. Khalili*, <b>X. Zhang*</b> and M. Liu</i><br>
+		In IEEE Access, 2021.<br>
+		<a href="access.pdf"><div class="color-button">pdf</div></a>
+	</li><br>
 </ul>
 
 <h2>Security Economics</h2>
@@ -93,7 +100,7 @@ Here is my <a href= "https://scholar.google.com/citations?user=PNBO_a4AAAAJ&hl=e
 		<b>Resource Pooling for Shared Fate: Incentivizing Effort in Interdependent Security Games through Cross-investments.</b><br>
 		<i>M. Khalili, <b>X. Zhang</b> and M. Liu</i><br>
 		In IEEE Transactions on Control of Network Systems <b>(TCNS)</b>, 2020.<br>
-		<a href=""><div class="color-button">coming soon</div></a>
+		<a href="TCNS.pdf"><div class="color-button">pdf</div></a>
 	</li><br>
 	<li>
 		<b>Incentivizing Effort in Interdependent Security Games Using Resource Pooling</b><br>

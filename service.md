@@ -13,7 +13,7 @@ title: Service
         <li><font size="3"> International Conference on Machine Learning (ICML), 2021.</font></li>
         <li><font size="3"> AAAI Conference on Artificial Intelligence (AAAI), 2021.</font></li>
         <li><font size="3"> International Conference on Learning Representations (ICLR), 2021.</font></li>
-        <li><font size="3"> Conference on Neural Information Processing Systems (NeurIPS), 2020.</font></li>
+        <li><font size="3"> Conference on Neural Information Processing Systems (NeurIPS), 2020, 2021.</font></li>
         <li><font size="3"> IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2019.</font></li>
         <li><font size="3"> Conference on Decision and Control (CDC), 2019, 2020.</font></li>
         </ul>
