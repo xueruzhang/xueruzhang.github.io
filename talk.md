@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Talks & Presentation
-permalink: /miscellany/talk/
+permalink: /talk/
 ---
 
 <h2>Invited Talk</h2>

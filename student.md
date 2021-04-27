@@ -1,16 +1,14 @@
 ---
 layout: page
+title: Group Member
 permalink: /student/
-title: Group
 ---
 
-<h2>Group Member</h2>
+<h2>Graduate Student</h2>
 
-<p style="float: left; font-size: 10pt; text-align: center; width: 30%; margin-right: 3%; margin-bottom: 0.5em;"><img src="/images/you.jpeg" style="width: 100%">Your name can be here </p>
+<p style="float: left; font-size: 7pt; text-align: center; width: 20%; margin-right: 10%; margin-bottom: 1em;"><img src="/images/you.jpeg" style="width: 100%">Your name can be here </p>
 
-<p style="float: left; font-size: 10pt; text-align: center; width: 30%; margin-right: 3%; margin-bottom: 0.5em;"><img src="/images/you.jpeg" style="width: 100%">Your name can be here</p>
-
-<p style="float: left; font-size: 10pt; text-align: center; width: 30%; margin-right: 3%; margin-bottom: 0.5em;"><img src="/images/you.jpeg" style="width: 100%">Your name can be here</p>
+<p style="float: left; font-size: 7pt; text-align: center; width: 20%; margin-right: 10%; margin-bottom: 1em;"><img src="/images/you.jpeg" style="width: 100%">Your name can be here</p>
 
 <p style="clear: both;">
 
