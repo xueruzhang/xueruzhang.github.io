@@ -18,7 +18,7 @@ Here is my <a href= "https://scholar.google.com/citations?user=PNBO_a4AAAAJ&hl=e
 	<li>
 		<b>Cardiac Complication Risk Profiling for Cancer Survivors via Multi-View Multi-Task Learning</b><br>
 		<i>T. Pham, C. Yin, L. Mehta, <b>X. Zhang</b> and P. Zhang</i><br>
-		In the IEEE International Conference on Data Mining <b>(ICDM)</b>, regular paper, 2021<br>
+		In the IEEE International Conference on Data Mining <b>(ICDM)</b>, regular paper, 2021.<br>
 		<a href=" "><div class="color-button">coming soon</div></a>
 	</li><br>
 	<li>
