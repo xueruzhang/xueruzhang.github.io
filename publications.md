@@ -10,13 +10,13 @@ Here is my <a href= "https://scholar.google.com/citations?user=PNBO_a4AAAAJ&hl=e
 <h2>2021</h2>
 <ul>
 	<li>
-		<b>Fair Sequential Selection Using Supervised Learning Models.</b><br>
+		<b>Fair Sequential Selection Using Supervised Learning Models</b><br>
 		<i>M. Khalili, <b>X. Zhang</b> and M. Abroshan</i><br>
 		In the 35th Conference on Neural Information Processing Systems <b>(NeurIPS)</b>, 2021.<br>
 		<a href=" "><div class="color-button">coming soon</div></a>
 	</li><br>
 	<li>
-		<b>Cardiac Complication Risk Profiling for Cancer Survivors via Multi-View Multi-Task Learning.</b><br>
+		<b>Cardiac Complication Risk Profiling for Cancer Survivors via Multi-View Multi-Task Learning</b><br>
 		<i>T. Pham, C. Yin, L. Mehta, <b>X. Zhang</b> and P. Zhang</i><br>
 		In the IEEE International Conference on Data Mining <b>(ICDM)</b>, regular paper, 2021<br>
 		<a href=" "><div class="color-button">coming soon</div></a>
