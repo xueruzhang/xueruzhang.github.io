@@ -6,6 +6,14 @@ title: Publications
 
 Here is my <a href= "https://scholar.google.com/citations?user=PNBO_a4AAAAJ&hl=en">Google Scholar</a> page.
 
+<h2>Preprints</h2>
+<ul>
+	<li>
+		<b>Fairness Interventions as (Dis)incentives for Strategic Manipulation</b><br>
+		<i><b>X. Zhang</b>, M. Khalili, K. Jin, P. Naghizadeh and M. Liu</i><br>
+		<a href="manipulation.pdf"><div class="color-button">pdf</div></a>
+	</li><br>
+</ul>
 
 <h2>2021</h2>
 <ul>
