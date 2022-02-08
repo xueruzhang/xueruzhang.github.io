@@ -21,13 +21,14 @@ Here is my <a href= "https://scholar.google.com/citations?user=PNBO_a4AAAAJ&hl=e
 		<b>Fair Sequential Selection Using Supervised Learning Models</b><br>
 		<i>M. Khalili, <b>X. Zhang</b> and M. Abroshan</i><br>
 		In the 35th Conference on Neural Information Processing Systems <b>(NeurIPS)</b>, 2021.<br>
-		<a href=" "><div class="color-button">coming soon</div></a>
+		<a href=" "><div class="neurips21.pdf">pdf</div></a>
 	</li><br>
 	<li>
 		<b>Cardiac Complication Risk Profiling for Cancer Survivors via Multi-View Multi-Task Learning</b><br>
 		<i>T. Pham, C. Yin, L. Mehta, <b>X. Zhang</b> and P. Zhang</i><br>
 		In the IEEE International Conference on Data Mining <b>(ICDM)</b>, regular paper, 2021.<br>
-		<a href=" "><div class="color-button">coming soon</div></a>
+		<a href=" "><div class="icdm21.pdf">pdf</div></a><a href="https://github.com/pth1993/MuViTaNet"><div class="color-button">code</div></a>
+
 	</li><br>
 	<li>
 		<b>Improving Fairness and Privacy in Selection Problems</b><br>
