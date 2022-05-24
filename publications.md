@@ -6,12 +6,26 @@ title: Publications
 
 Here is my <a href= "https://scholar.google.com/citations?user=PNBO_a4AAAAJ&hl=en">Google Scholar</a> page.
 
-<h2>Preprints</h2>
+<h2>2022</h2>
 <ul>
 	<li>
 		<b>Fairness Interventions as (Dis)incentives for Strategic Manipulation</b><br>
 		<i><b>X. Zhang</b>, M. Khalili, K. Jin, P. Naghizadeh and M. Liu</i><br>
-		<a href="manipulation.pdf"><div class="color-button">pdf</div></a>
+		In the 39th International Conference on Machine Learning <b>(ICML)</b>, 2022.<br>
+		<a href=" "><div class="color-button">pdf</div></a>
+	</li><br>
+	<li>
+		<b>Incentive Mechanisms for Strategic Classification and Regression Problems</b><br>
+		<i>K. Jin, <b>X. Zhang</b>, M. Khalili, P. Naghizadeh and M. Liu</i><br>
+		In ACM Conference on Economics and Computation, <b>(EC)</b>, 2022.<br>
+		Contributed Talk in ICLR Workshop on Socially Responsible Machine Learning, 2022.<br>
+		<a href="ec2022.pdf"><div class="color-button">pdf</div></a>
+	</li><br>
+	<li>
+		<b>Differentially Private Real-Time Release of Sequential Data</b><br>
+		<i><b>X. Zhang</b>, M. Khalili and M. Liu</i><br>
+		 ACM Transactions on Privacy and Security <b>(TOPS)</b>, 2022.<br>
+		<a href=" "><div class="color-button">pdf</div></a>
 	</li><br>
 </ul>
 
@@ -28,7 +42,6 @@ Here is my <a href= "https://scholar.google.com/citations?user=PNBO_a4AAAAJ&hl=e
 		<i>T. Pham, C. Yin, L. Mehta, <b>X. Zhang</b> and P. Zhang</i><br>
 		In the IEEE International Conference on Data Mining <b>(ICDM)</b>, regular paper, 2021.<br>
 		<a href="icdm21.pdf"><div class="color-button">pdf</div></a><a href="https://github.com/pth1993/MuViTaNet"><div class="color-button">code</div></a>
-
 	</li><br>
 	<li>
 		<b>Improving Fairness and Privacy in Selection Problems</b><br>
