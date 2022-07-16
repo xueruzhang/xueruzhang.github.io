@@ -12,7 +12,7 @@ Here is my <a href= "https://scholar.google.com/citations?user=PNBO_a4AAAAJ&hl=e
 		<b>Fairness Interventions as (Dis)incentives for Strategic Manipulation</b><br>
 		<i><b>X. Zhang</b>, M. Khalili, K. Jin, P. Naghizadeh and M. Liu</i><br>
 		In the 39th International Conference on Machine Learning <b>(ICML)</b>, 2022.<br>
-		<a href=" "><div class="color-button">pdf</div></a>
+		<a href="icml22.pdf"><div class="color-button">pdf</div></a><a href="poster/icml22.pdf"><div class="color-button">poster</div></a><a href="slides/icml22.pdf"><div class="color-button">slides</div></a>
 	</li><br>
 	<li>
 		<b>Incentive Mechanisms for Strategic Classification and Regression Problems</b><br>
@@ -25,7 +25,7 @@ Here is my <a href= "https://scholar.google.com/citations?user=PNBO_a4AAAAJ&hl=e
 		<b>Differentially Private Real-Time Release of Sequential Data</b><br>
 		<i><b>X. Zhang</b>, M. Khalili and M. Liu</i><br>
 		 ACM Transactions on Privacy and Security <b>(TOPS)</b>, 2022.<br>
-		<a href=" "><div class="color-button">pdf</div></a>
+		<a href="tosp22.pdf"><div class="color-button">pdf</div></a>
 	</li><br>
 </ul>
 
