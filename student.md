@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Group
+title: Research Group
 permalink: /student/
 ---
 
