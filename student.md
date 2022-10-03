@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Group Member
+title: Group
 permalink: /student/
 ---
 
+<h1>Members</h1>
 <h2>PhD Students</h2>
 <ul>
  <li>Xuwei Tan (AU22 - )</li>
@@ -36,16 +37,18 @@ permalink: /student/
 <p> If you are a B.Sc. or M.Sc. student at OSU interested in my research, please feel free to reach out. We can find a time to meet and discuss potential projects.</p>
 
 <br>
-<h3>Group Photo</h3>
+
+<h1>Group Photo</h1>
 <p style="display: block; font-size: 12pt; text-align: center; width: 60%; margin-right: auto; margin-bottom: auto;"><img src="/images/group1.jpeg" style="width: 100%">2022 Mid-Autumn Festival</p>
 
 
 
 <br>
-<h3>Sponsors</h3>
+<h1>Sponsors</h1>
 
-I gratefully acknowledge the support from NSF, Cisco, Center for Clinical and Translational Science, and Nationwide Children's Hospital
-<img style='max-width: 30%; max-height: 30%' src="/images/NSF.png" align=left hspace="20"/> 
-<img style='max-width: 30%; max-height: 30%' src="/images/cisco.png" align=left hspace="20"/> 
-<img style='max-width: 30%; max-height: 30%' src="/images/ccts.png" align=left hspace="20"/> 
-<img style='max-width: 30%; max-height: 30%' src="/images/NCH.png" align=left hspace="20"/> 
+I gratefully acknowledge the support from NSF, Cisco, Center for Clinical and Translational Science, and Nationwide Children's Hospital.
+
+<img style='max-width: 15%; max-height: 15%' src="/images/NSF.png" align=left hspace="20"/> 
+<img style='max-width: 15%; max-height: 15%' src="/images/cisco.png" align=left hspace="20"/> 
+<img style='max-width: 15%; max-height: 15%' src="/images/ccts.png" align=left hspace="20"/> 
+<img style='max-width: 15%; max-height: 15%' src="/images/NCH.png" align=left hspace="20"/> 
