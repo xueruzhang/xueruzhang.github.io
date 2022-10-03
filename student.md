@@ -48,7 +48,7 @@ permalink: /student/
 
 I gratefully acknowledge the support from NSF, Cisco, Center for Clinical and Translational Science, and Nationwide Children's Hospital.
 
-<img style='max-width: 15%; max-height: 15%; vertical-align: middle' src="/images/NSF.png" align=left hspace="20"/> 
-<img style='max-width: 15%; max-height: 15%; vertical-align: middle' src="/images/cisco.png" align=left hspace="20"/> 
-<img style='max-width: 15%; max-height: 15%; vertical-align: middle' src="/images/ccts.png" align=left hspace="20"/> 
-<img style='max-width: 15%; max-height: 15%; vertical-align: middle' src="/images/NCH.png" align=left hspace="20"/> 
+<img style='max-width: 15%; vertical-align: middle' src="/images/NSF.png" align=left hspace="20"/> 
+<img style='max-width: 15%; vertical-align: middle' src="/images/cisco.png" align=left hspace="20"/> 
+<img style='max-width: 15%; vertical-align: middle' src="/images/ccts.png" align=left hspace="20"/> 
+<img style='max-width: 15%; vertical-align: middle' src="/images/NCH.png" align=left hspace="20"/> 
