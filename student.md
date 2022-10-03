@@ -40,7 +40,7 @@ permalink: /student/
 
 <h1>Group Photo</h1>
 
-<p style="display: block;  font-size: 12pt; text-align: center; width: 70%; margin-right: auto; margin-bottom: auto;"><img src="/images/group1.jpeg" style="width: 100%">2022 Mid-Autumn Festival</p>
+<p style="display: block;  font-size: 12pt; text-align: center; width: 70%; margin-right: auto; margin-bottom: auto;"><img src="/images/group1.jpeg" style="width: 100%" align=center>2022 Mid-Autumn Festival</p>
 
 
 
@@ -49,4 +49,4 @@ permalink: /student/
 
 I gratefully acknowledge the support from NSF, Cisco, Center for Clinical and Translational Science, and Nationwide Children's Hospital.
 
-<img style='width: 100%; max-height: 15%' src="/images/sponsor.png" align=left />
+<img style='width: 70%; max-height: 15%' src="/images/sponsor.png" align=center />
