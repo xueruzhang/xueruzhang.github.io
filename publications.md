@@ -9,6 +9,13 @@ Here is my <a href= "https://scholar.google.com/citations?user=PNBO_a4AAAAJ&hl=e
 <h2>2022</h2>
 <ul>
 	<li>
+		<b>A Fair and Interpretable Network for Clinical Risk Prediction: A Regularized Multi-view Multi-task
+Learning Approach</b><br>
+		<i>T. Pham, C. Yin, L. Mehta, <b>X. Zhang</b>, P. Zhang</i><br>
+		In Knowledge and Information Systems  <b>(KAIS)</b>, 2022.<br>
+		<a href=" "><div class="color-button">pdf</div></a>
+	</li><br>
+	<li>
 		<b>Fairness Interventions as (Dis)incentives for Strategic Manipulation</b><br>
 		<i><b>X. Zhang</b>, M. Khalili, K. Jin, P. Naghizadeh and M. Liu</i><br>
 		In the 39th International Conference on Machine Learning <b>(ICML)</b>, 2022.<br>
