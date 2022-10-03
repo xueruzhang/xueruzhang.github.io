@@ -4,7 +4,7 @@ title: Research Group
 permalink: /student/
 ---
 
-<h1>Members</h1>
+<h1>Member</h1>
 <h2>PhD Students</h2>
 <ul>
  <li>Xuwei Tan (AU22 - )</li>
