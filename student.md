@@ -39,7 +39,7 @@ permalink: /student/
 <br>
 
 <h1>Group Photo</h1>
-<p style="display: block; font-size: 12pt; text-align: center; width: 60%; margin-right: auto; margin-bottom: auto;"><img src="/images/group1.jpeg" style="width: 100%">2022 Mid-Autumn Festival</p>
+<p style="display: block;  font-size: 12pt; text-align: center; width: 60%; margin-right: auto; margin-bottom: auto;"><img src="/images/group1.jpeg" style="width: 100%", class="center">2022 Mid-Autumn Festival</p>
 
 
 
