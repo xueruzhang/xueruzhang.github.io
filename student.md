@@ -49,7 +49,4 @@ permalink: /student/
 
 I gratefully acknowledge the support from NSF, Cisco, Center for Clinical and Translational Science, and Nationwide Children's Hospital.
 
-<img style='width: 15%; max-height: 15%' src="/images/NSF.png" align=left hspace="10"/> 
-<img style='width: 15%; max-height: 15%' src="/images/cisco.png" align=left hspace="10"/> 
-<img style='width: 15%; max-height: 15%' src="/images/ccts.png" align=left hspace="10"/> 
-<img style='width: 15%; max-height: 15%' src="/images/NCH.png" align=left hspace="10"/> 
+<img style='width: 100%; max-height: 15%' src="/images/sponsor.png" align=left />
