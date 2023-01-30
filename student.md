@@ -21,6 +21,7 @@ permalink: /student/
   <li>Yizhi Wang (AU21 - SU22)</li>
   <li>Chris Liu (AU21)</li>
 </ul>
+
 <!--
 <p style="float: left; font-size: 12pt; text-align: center; width: 20%; margin-right: 10%; margin-bottom: 1em;"><img src="/images/you.jpeg" style="width: 100%">Your name can be here </p>
 
