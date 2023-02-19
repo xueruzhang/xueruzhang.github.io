@@ -12,7 +12,7 @@ Here is my <a href= "https://scholar.google.com/citations?user=PNBO_a4AAAAJ&hl=e
 		<b>Fairness and Accuracy under Domain Generalization</b><br>
 		<i>T. Pham, <b>X. Zhang</b>, P. Zhang</i><br>
 		In 11th International Conference on Learning Representations  <b>(ICLR)</b>, 2023.<br>
-		<a href=" "><div class="color-button">pdf</div></a>
+		<a href="iclr23.pdf"><div class="color-button">pdf</div></a>
 	</li><br>
 </ul>
 
