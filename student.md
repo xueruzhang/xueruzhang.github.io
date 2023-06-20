@@ -5,21 +5,18 @@ permalink: /student/
 ---
 
 <h1>Member</h1>
-<h2>PhD Students</h2>
+<h2>Current PhD Students</h2>
 <ul>
  <li>Xuwei Tan (AU22 - )</li>
  <li>Tian Xie (AU22 - )</li>
 <li>Zhiqun Zuo (AU22 - )</li>
+
 </ul>
-<h2>Master Students</h2>
+<h2>Past Students</h2>
 <ul>
- <li>Dianwei Chen (SP22 - )</li>
-</ul>
-<h2> Undergraduate Students</h2>
-<ul>
- <li>Yunqing Qiu (SP22 - )</li>
-  <li>Yizhi Wang (AU21 - SU22)</li>
-  <li>Chris Liu (AU21)</li>
+ <li>Yunqing Qiu (CSE BSc, SP22 - SU23, Next: MSc at Columbia University)</li>
+  <li>Yizhi Wang (ECE BSc, AU21 - AU22, Next: MSc at Columbia University)</li>
+  <li>Chris Liu (CSE BSc, AU21)</li>
 </ul>
 
 <!--
@@ -33,7 +30,7 @@ permalink: /student/
 <br>
 <h3>A note to prospective students</h3>
 
-<p> I am looking for highly motivated students (starting Spring/Autumn 2023)! If you are interested in joining our group, please send me an email with the following information: (1) your CV; (2) a copy of your transcripts; (3) a brief description of your background and research interests. <b>Please start your email subject with "[Prospective PhD Student]"</b>. I apologize in advance as I may not be able to reply to every email.</p> 
+<p> I am always looking for highly motivated students! If you are interested in joining our group, please send me an email with the following information: (1) your CV; (2) a copy of your transcripts; (3) a brief description of your background and research interests. <b>Please start your email subject with "[Prospective PhD Student]"</b>. I apologize in advance as I may not be able to reply to every email.</p> 
 
 <p> If you are a B.Sc. or M.Sc. student at OSU interested in my research, please feel free to reach out. We can find a time to meet and discuss potential projects.</p>
 
@@ -48,6 +45,6 @@ permalink: /student/
 <br>
 <h1>Sponsors</h1>
 
-I gratefully acknowledge the support from NSF, Cisco, Center for Clinical and Translational Science, and Nationwide Children's Hospital.
+I gratefully acknowledge the support from NSF, Cisco, Center for Clinical and Translational Science, Nationwide Children's Hospital, and OSU Translational Data Analytics Institute.
 
 <img style='width: 70%; max-height: 15%' src="/images/sponsor.png" />

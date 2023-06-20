@@ -8,9 +8,15 @@ Here is my <a href= "https://scholar.google.com/citations?user=PNBO_a4AAAAJ&hl=e
 
 <h2>2023</h2>
 <ul>
+	<li>
+		<b>Loss Balancing for Fair Supervised Learning</b><br>
+		<i>M. Khalili, <b>X. Zhang</b> and M. Abroshan</i><br>
+		In 40th International Conference on Machine Learning <b>(ICML)</b>, 2023.<br>
+		<a href=" "><div class="color-button">pdf</div></a>
+	</li><br>
 <li>
 		<b>Fairness and Accuracy under Domain Generalization</b><br>
-		<i>T. Pham, <b>X. Zhang</b>, P. Zhang</i><br>
+		<i>T. Pham, <b>X. Zhang</b> and P. Zhang</i><br>
 		In 11th International Conference on Learning Representations  <b>(ICLR)</b>, 2023.<br>
 		<a href="iclr23.pdf"><div class="color-button">pdf</div></a>
 	</li><br>
@@ -22,7 +28,7 @@ Here is my <a href= "https://scholar.google.com/citations?user=PNBO_a4AAAAJ&hl=e
 	<li>
 		<b>A Fair and Interpretable Network for Clinical Risk Prediction: A Regularized Multi-view Multi-task
 Learning Approach</b><br>
-		<i>T. Pham, C. Yin, L. Mehta, <b>X. Zhang</b>, P. Zhang</i><br>
+		<i>T. Pham, C. Yin, L. Mehta, <b>X. Zhang</b> and P. Zhang</i><br>
 		In Knowledge and Information Systems  <b>(KAIS)</b>, 2022.<br>
 		<a href=" "><div class="color-button">pdf</div></a>
 	</li><br>
