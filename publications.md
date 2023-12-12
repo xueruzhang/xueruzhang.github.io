@@ -6,13 +6,29 @@ title: Publications
 
 Here is my <a href= "https://scholar.google.com/citations?user=PNBO_a4AAAAJ&hl=en">Google Scholar</a> page.
 
+<h2>2024</h2>
+<ul>
+	<li>
+		<b>Performative Federated Learning: A Solution to Model-Dependent and Heterogeneous Distribution Shifts.</b><br>
+		<i>K. Jin, T. Yin, Z. Chen, Z. Sun, <b>X. Zhang</b>, Y. Liu and M. Liu</i><br>
+		In the 38th AAAI Conference on Artificial Intelligence <b>(AAAI)</b>, 2024.<br>
+		<a href=" "><div class="color-button">pdf</div></a>
+	</li><br>
+</ul>
+
 <h2>2023</h2>
 <ul>
+	<li>
+		<b>Counterfactually Fair Representation</b><br>
+		<i>Z. Zuo, M. Khalili and <b>X. Zhang</b> </i><br>
+		In the 37th Conference on Neural Information Processing Systems <b>(NeurIPS)</b>, 2023.<br>
+		<a href="neurips23.pdf"><div class="color-button">pdf</div></a>
+	</li><br>
 	<li>
 		<b>Loss Balancing for Fair Supervised Learning</b><br>
 		<i>M. Khalili, <b>X. Zhang</b> and M. Abroshan</i><br>
 		In 40th International Conference on Machine Learning <b>(ICML)</b>, 2023.<br>
-		<a href=" "><div class="color-button">pdf</div></a>
+		<a href="icml23.pdf"><div class="color-button">pdf</div></a>
 	</li><br>
 <li>
 		<b>Fairness and Accuracy under Domain Generalization</b><br>

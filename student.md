@@ -7,11 +7,20 @@ permalink: /student/
 <h1>Member</h1>
 <h2>Current PhD Students</h2>
 <ul>
- <li>Xuwei Tan (AU22 - )</li>
- <li>Tian Xie (AU22 - )</li>
-<li>Zhiqun Zuo (AU22 - )</li>
+    <li> Zhongteng Cai (co-advised by Dr. Mahdi Khalili)</li>
+ <li>Xuwei Tan </li>
+ <li>Tian Xie </li>
+<li>Zhiqun Zuo (co-advised by Dr. Mahdi Khalili)</li>
 
 </ul>
+I also closely work with the following students:
+<ul>
+    <li> Thai-Hoang Pham (advisr: Dr. Ping Zhang)</li>
+ <li>Xue Zheng (advisor: Dr. Aylin Yener) </li>
+
+</ul>
+
+
 <h2>Past Students</h2>
 <ul>
  <li>Yunqing Qiu (CSE BSc, SP22 - SU23, Next: MSc at Columbia University)</li>
@@ -36,11 +45,12 @@ permalink: /student/
 
 <br>
 
+<!--
 <h1>Group Photo</h1>
 
 <p style="display: block;  font-size: 11pt; text-align: center; width: 70%; margin-right: auto; margin-bottom: auto;"><img src="/images/group1.jpeg" style="width: 100%" align=center>Group Gathering, September 2022 </p>
 
-
+-->
 
 <br>
 <h1>Sponsors</h1>
