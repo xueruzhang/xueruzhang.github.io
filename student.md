@@ -7,10 +7,10 @@ permalink: /student/
 <h1>Member</h1>
 <h2>Current PhD Students</h2>
 <ul>
-    <li> Zhongteng Cai (co-advised by Dr. Mahdi Khalili)</li>
+    <li> Zhongteng Cai </li>
  <li>Xuwei Tan </li>
  <li>Tian Xie </li>
-<li>Zhiqun Zuo (co-advised by Dr. Mahdi Khalili)</li>
+<li>Zhiqun Zuo </li>
 
 </ul>
 I also closely work with the following students:
