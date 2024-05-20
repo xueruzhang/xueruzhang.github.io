@@ -9,6 +9,18 @@ Here is my <a href= "https://scholar.google.com/citations?user=PNBO_a4AAAAJ&hl=e
 <h2>2024</h2>
 <ul>
 	<li>
+		<b>Privacy-Aware Randomized Quantization via Linear Programming.</b><br>
+		<i>Z. Cai, <b>X. Zhang</b> and M. Khalili</i><br>
+		 In the 40th Conference on Uncertainty in Artificial Intelligence <b>(UAI)</b>, 2024.<br>
+		<a href=" "><div class="color-button">pdf</div></a>
+	</li><br>
+	<li>
+		<b>Non-stationary Domain Generalization: Theory and Algorithm.</b><br>
+		<i>T. Pham, <b>X. Zhang</b> and P. Zhang</i><br>
+		 In the 40th Conference on Uncertainty in Artificial Intelligence <b>(UAI)</b>, 2024.<br>
+		<a href=" "><div class="color-button">pdf</div></a>
+	</li><br>
+	<li>
 		<b>Performative Federated Learning: A Solution to Model-Dependent and Heterogeneous Distribution Shifts.</b><br>
 		<i>K. Jin, T. Yin, Z. Chen, Z. Sun, <b>X. Zhang</b>, Y. Liu and M. Liu</i><br>
 		In the 38th AAAI Conference on Artificial Intelligence <b>(AAAI)</b>, 2024.<br>
