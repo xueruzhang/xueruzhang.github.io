@@ -44,22 +44,19 @@ Here is my <a href= "https://scholar.google.com/citations?user=PNBO_a4AAAAJ&hl=e
 <h2>2023</h2>
 <ul>
 	<li>
-		<b>Counterfactually Fair Representation</b><br>
+		<b>Counterfactually Fair Representation</b> <a href="neurips23.pdf"><div class="color-button">pdf</div></a><br>
 		<i>Z. Zuo, M. Khalili and <b>X. Zhang</b> </i><br>
 		In the 37th Conference on Neural Information Processing Systems <b>(NeurIPS)</b>, 2023.<br>
-		<a href="neurips23.pdf"><div class="color-button">pdf</div></a>
 	</li><br>
 	<li>
-		<b>Loss Balancing for Fair Supervised Learning</b><br>
+		<b>Loss Balancing for Fair Supervised Learning</b> <a href="icml23.pdf"><div class="color-button">pdf</div></a><br>
 		<i>M. Khalili, <b>X. Zhang</b> and M. Abroshan</i><br>
 		In 40th International Conference on Machine Learning <b>(ICML)</b>, 2023.<br>
-		<a href="icml23.pdf"><div class="color-button">pdf</div></a>
 	</li><br>
 <li>
-		<b>Fairness and Accuracy under Domain Generalization</b><br>
+		<b>Fairness and Accuracy under Domain Generalization</b> <a href="iclr23.pdf"><div class="color-button">pdf</div></a><br>
 		<i>T. Pham, <b>X. Zhang</b> and P. Zhang</i><br>
 		In 11th International Conference on Learning Representations  <b>(ICLR)</b>, 2023.<br>
-		<a href="iclr23.pdf"><div class="color-button">pdf</div></a>
 	</li><br>
 </ul>
 
@@ -68,64 +65,60 @@ Here is my <a href= "https://scholar.google.com/citations?user=PNBO_a4AAAAJ&hl=e
 <ul>
 	<li>
 		<b>A Fair and Interpretable Network for Clinical Risk Prediction: A Regularized Multi-view Multi-task
-Learning Approach</b><br>
+Learning Approach.</b> <a href="kais23.pdf"><div class="color-button">pdf</div></a><br>
 		<i>T. Pham, C. Yin, L. Mehta, <b>X. Zhang</b> and P. Zhang</i><br>
 		In Knowledge and Information Systems  <b>(KAIS)</b>, 2022.<br>
-		<a href=" "><div class="color-button">pdf</div></a>
 	</li><br>
 	<li>
-		<b>Fairness Interventions as (Dis)incentives for Strategic Manipulation</b><br>
+		<b>Fairness Interventions as (Dis)incentives for Strategic Manipulation.</b> <a href="icml22.pdf"><div class="color-button">pdf</div></a><br>
 		<i><b>X. Zhang</b>, M. Khalili, K. Jin, P. Naghizadeh and M. Liu</i><br>
 		In the 39th International Conference on Machine Learning <b>(ICML)</b>, 2022.<br>
-		<a href="icml22.pdf"><div class="color-button">pdf</div></a><a href="poster/icml2022.pdf"><div class="color-button">poster</div></a><a href="slides/icml2022.pdf"><div class="color-button">slides</div></a>
 	</li><br>
 	<li>
-		<b>Incentive Mechanisms for Strategic Classification and Regression Problems</b><br>
+		<b>Incentive Mechanisms for Strategic Classification and Regression Problems.</b> <a href="ec2022.pdf"><div class="color-button">pdf</div></a><br>
 		<i>K. Jin, <b>X. Zhang</b>, M. Khalili, P. Naghizadeh and M. Liu</i><br>
 		In ACM Conference on Economics and Computation, <b>(EC)</b>, 2022.<br>
 		Contributed Talk in ICLR Workshop on Socially Responsible Machine Learning, 2022.<br>
-		<a href="ec2022.pdf"><div class="color-button">pdf</div></a>
 	</li><br>
 	<li>
-		<b>Differentially Private Real-Time Release of Sequential Data</b><br>
+		<b>Differentially Private Real-Time Release of Sequential Data.</b> <a href="tosp22.pdf"><div class="color-button">pdf</div></a><br>
 		<i><b>X. Zhang</b>, M. Khalili and M. Liu</i><br>
 		 ACM Transactions on Privacy and Security <b>(TOPS)</b>, 2022.<br>
-		<a href="tosp22.pdf"><div class="color-button">pdf</div></a>
 	</li><br>
 </ul>
 
 <h2>2021</h2>
 <ul>
+<li>
+		<b>Socially Responsible Machine Learning: On the Preservation of Individual Privacy and Fairness.</b> <a href="thesis.pdf"><div class="color-button">pdf</div></a><br>
+		<i><b>X. Zhang</b></i><br>
+		<b>PhD Thesis</b>, 2021.<br>
+	</li><br>
 	<li>
-		<b>Fair Sequential Selection Using Supervised Learning Models</b><br>
+		<b>Fair Sequential Selection Using Supervised Learning Models.</b> <a href="neurips21.pdf"><div class="color-button">pdf</div></a><br>
 		<i>M. Khalili, <b>X. Zhang</b> and M. Abroshan</i><br>
 		In the 35th Conference on Neural Information Processing Systems <b>(NeurIPS)</b>, 2021.<br>
-		<a href="neurips21.pdf"><div class="color-button">pdf</div></a>
 	</li><br>
 	<li>
-		<b>Cardiac Complication Risk Profiling for Cancer Survivors via Multi-View Multi-Task Learning</b><br>
+		<b>Cardiac Complication Risk Profiling for Cancer Survivors via Multi-View Multi-Task Learning.</b> <a href="icdm21.pdf"><div class="color-button">pdf</div></a><br>
 		<i>T. Pham, C. Yin, L. Mehta, <b>X. Zhang</b> and P. Zhang</i><br>
 		In the IEEE International Conference on Data Mining <b>(ICDM)</b>, regular paper, 2021.<br>
-		<a href="icdm21.pdf"><div class="color-button">pdf</div></a><a href="https://github.com/pth1993/MuViTaNet"><div class="color-button">code</div></a>
 	</li><br>
 	<li>
-		<b>Improving Fairness and Privacy in Selection Problems</b><br>
+		<b>Improving Fairness and Privacy in Selection Problems.</b> <a href="aaai21.pdf"><div class="color-button">pdf</div></a><br>
 		<i>M. Khalili, <b>X. Zhang</b>, M. Abroshan and S. Sojoudi</i><br>
 		In the 35th AAAI Conference on Artificial Intelligence <b>(AAAI)</b>, 2021.<br>
-		<a href="aaai21.pdf"><div class="color-button">pdf</div></a>
 	</li><br>
 	<li>
-		<b>Fairness in Learning-Based Sequential Decision Algorithms: A Survey</b><br>
+		<b>Fairness in Learning-Based Sequential Decision Algorithms: A Survey.</b> <a href="fairness-survey.pdf"><div class="color-button">pdf</div></a><br>
 		<i><b>X. Zhang</b> and M. Liu</i><br>
 		Springer Studies in Systems, Decision and Control, Handbook on RL and Control.<br>
-		<a href="fairness-survey.pdf"><div class="color-button">pdf</div></a>
 	</li><br>
 	<li>
-		<b>Designing Contracts for Trading Private and Heterogeneous Data Using a Biased Differentially Private Algorithm
-</b><br>
+		<b>Designing Contracts for Trading Private and Heterogeneous Data Using a Biased Differentially Private Algorithm.
+</b><a href="access.pdf"><div class="color-button">pdf</div></a><br>
 		<i>M. Khalili*, <b>X. Zhang*</b> and M. Liu</i><br>
 		In IEEE Access, 2021.<br>
-		<a href="access.pdf"><div class="color-button">pdf</div></a>
 	</li><br>
 	
 </ul>
@@ -133,95 +126,82 @@ Learning Approach</b><br>
 <h2>2020</h2>
 <ul>
 	<li>
-		<b>How Do Fair Decisions Fare in Long-term Qualification?</b><br>
+		<b>How Do Fair Decisions Fare in Long-term Qualification?</b> <a href="neurips20.pdf"><div class="color-button">pdf</div></a><br>
 		<i><b>X. Zhang*</b>, R. Tu*, Y. Liu, M. Liu, H. Kjellström, K. Zhang and C. Zhang</i><br>
 		In the 34th Conference on Neural Information Processing Systems <b>(NeurIPS)</b>, 2020.<br>
-		<a href="neurips20.pdf"><div class="color-button">pdf</div></a><a href="poster/neurips20.pdf"><div class="color-button">poster</div></a><a href="slides/neurips20.pdf"><div class="color-button">slides</div></a><a href="talk/neurips20.m4v"><div class="color-button">talk</div></a><a href="https://github.com/TURuibo/long-term-impact-of-fairness-constraints"><div class="color-button">code</div></a>
 	</li><br>
 	<li>
-		<b>Resource Pooling for Shared Fate: Incentivizing Effort in Interdependent Security Games through Cross-investments.</b><br>
+		<b>Resource Pooling for Shared Fate: Incentivizing Effort in Interdependent Security Games through Cross-investments.</b><a href="TCNS.pdf"><div class="color-button">pdf</div></a><br>
 		<i>M. Khalili, <b>X. Zhang</b> and M. Liu</i><br>
 		In IEEE Transactions on Control of Network Systems <b>(TCNS)</b>, 2020.<br>
-		<a href="TCNS.pdf"><div class="color-button">pdf</div></a>
 	</li><br>
 	<li>
-		<b>A Robust Energy and Emissions Conscious Cruise Controller for Connected Vehicles with Privacy Considerations
-</b><br>
+		<b>A Robust Energy and Emissions Conscious Cruise Controller for Connected Vehicles with Privacy Considerations.
+</b><a href="acc.pdf"><div class="color-button">pdf</div></a><br>
 		<i>C. Huang, <b>X. Zhang</b>, R. Salehi, T. Ersal and A. Stefanopoulou </i><br>
 		In 2020 American Control Conference <b>(ACC)</b>, 2020.<br>
 		<i>ASME Automotive and Transportation Systems <b>Best Paper Award Finalist</b></i><br>
-		<a href="acc.pdf"><div class="color-button">pdf</div></a>
 	</li><br>
 
 </ul>
 
 <h2>2019</h2>
 <ul><li>
-		<b>Group Retention when Using Machine Learning in Sequential Decision Making: the Interplay between User Dynamics and Fairness
-</b><br>
+		<b>Group Retention when Using Machine Learning in Sequential Decision Making: the Interplay between User Dynamics and Fairness.
+</b><a href="neurips19.pdf"><div class="color-button">pdf</div></a><br>
 		<i><b>X. Zhang*</b>, M. Khalili*, C. Tekin and M. Liu</i><br>
 		In the 33rd Conference on Neural Information Processing Systems <b>(NeurIPS)</b>, 2019.<br>
 		Earlier version: in EC Workshop on Mechanism Design for Social Good (MD4SG), 2019. <br>
-		<a href="neurips19.pdf"><div class="color-button">pdf</div></a><a href="poster/neurips19.pdf"><div class="color-button">poster</div></a>
 	</li><br>
 	<li>
-		<b>Recycled ADMM: Improving the Privacy and Accuracy of Distributed Algorithms
-</b><br>
+		<b>Recycled ADMM: Improving the Privacy and Accuracy of Distributed Algorithms.
+</b><a href="tifs.pdf"><div class="color-button">pdf</div></a><br>
 		<i><b>X. Zhang</b>, M. Khalili and M. Liu</i><br>
 		In IEEE Transactions on Information Forensics and Security <b>(TIFS)</b>, 2019.<br>
-		<a href="tifs.pdf"><div class="color-button">pdf</div></a>
 	</li><br>
 		<li>
-		<b>Incentivizing Effort in Interdependent Security Games Using Resource Pooling</b><br>
+		<b>Incentivizing Effort in Interdependent Security Games Using Resource Pooling.</b><a href="netecon-resource.pdf"><div class="color-button">pdf</div></a><br>
 		<i>M. Khalili, <b>X. Zhang</b> and M. Liu</i><br>
 		In the 14th Workshop on the Economics of Networks, Systems and Computation <b>(NetEcon)</b>, 2019. <br>
-		<a href="netecon-resource.pdf"><div class="color-button">pdf</div></a><a href="slides/netecon-resource.pdf"><div class="color-button">slides</div></a>
 	</li><br>
 	<li>
-		<b>Effective Premium Discrimination for Designing Cyber Insurance Policies with Rare Losses</b><br>
+		<b>Effective Premium Discrimination for Designing Cyber Insurance Policies with Rare Losses.</b><a href="gamesec.pdf"><div class="color-button">pdf</div></a><br>
 		<i>M. Khalili, <b>X. Zhang</b> and M. Liu</i><br>
 		In the 10th Conference on Decision and Game Theory for Security <b>(GameSec)</b>, 2019.<br>
-		<a href="gamesec.pdf"><div class="color-button">pdf</div></a>
 	</li><br>
 	<li>
-		<b>Long-term Impacts of Fair Machine Learning</b><br>
+		<b>Long-term Impacts of Fair Machine Learning.</b><a href="fairness-article.pdf"><div class="color-button">pdf</div></a><br>
 		<i><b>X. Zhang</b>, M. Khalili and M. Liu</i><br>
 		In Ergonomics in Design: The Quarterly of Human Factors Applications, 2019.<br>
-		<a href="fairness-article.pdf"><div class="color-button">pdf</div></a>
 	</li><br>
 	<li>
-		<b>Contract Design for Purchasing Private Data Using a Biased Differentially Private Algorithm</b><br>
+		<b>Contract Design for Purchasing Private Data Using a Biased Differentially Private Algorithm.</b><a href="netecon-data.pdf"><div class="color-button">pdf</div></a><br>
 		<i>M. Khalili*, <b>X. Zhang*</b> and M. Liu</i><br>
 		In the 14th Workshop on the Economics of Networks, Systems and Computation <b>(NetEcon)</b>, 2019.<br>
-		<a href="netecon-data.pdf"><div class="color-button">pdf</div></a><a href="slides/netecon-data.pdf"><div class="color-button">slides</div></a>
 	</li><br>
 	<li>
-		<b>Predictive Cruise Control with Private Vehicle-to-Vehicle Communication for Improving Fuel Consumption and Emissions
-</b><br>
+		<b>Predictive Cruise Control with Private Vehicle-to-Vehicle Communication for Improving Fuel Consumption and Emissions.
+</b><a href="ieee-communication.pdf"><div class="color-button">pdf</div></a><br>
 		<i><b>X. Zhang*</b>, C. Huang*, M. Liu, A. Stefanopoulou and T. Ersal </i><br>
 		In IEEE Communications Magazine, 2019.<br>
-		<a href="ieee-communication.pdf"><div class="color-button">pdf</div></a>
 	</li><br>
 </ul>
 
 <h2>2018</h2>
 <ul>
 	<li>
-		<b>Improving the Privacy and Accuracy of ADMM-Based Distributed Algorithms</b><br>
+		<b>Improving the Privacy and Accuracy of ADMM-Based Distributed Algorithms.</b> <a href="icml18.pdf"><div class="color-button">pdf</div></a><br>
 		<i><b>X. Zhang</b>, M. Khalili and M. Liu</i><br>
 		In the 35th International Conference on Machine Learning <b>(ICML)</b>, 2018.<br>
-		<a href="icml18.pdf"><div class="color-button">pdf</div></a><a href="talk/icml18.mp4"><div class="color-button">talk</div></a><a href="poster/icml.pdf"><div class="color-button">poster</div></a>
 	</li><br>
 	<li>
-		<b>Recycled ADMM: Improve Privacy and Accuracy with Less Computation in Distributed Algorithms</b><br>
+		<b>Recycled ADMM: Improve Privacy and Accuracy with Less Computation in Distributed Algorithms.</b><a href="allerton.pdf"><div class="color-button">pdf</div></a><br>
 		<i><b>X. Zhang</b>, M. Khalili and M. Liu</i><br>
 		In the 56th Annual Allerton Conference on Communication, Control, and Computing <b>(Allerton)</b>, 2018.<br>
-		<a href="allerton.pdf"><div class="color-button">pdf</div></a><a href="slides/allerton.pdf"><div class="color-button">slides</div></a>
 	</li><br>
 	<li>
-		<b>Public Good Provision Games on Networks with Resource Pooling</b><br>
+		<b>Public Good Provision Games on Networks with Resource Pooling.</b> <a href="netgcoop.pdf"><div class="color-button">pdf</div></a><br>
 		<i>M. Khalili, <b>X. Zhang</b> and M. Liu</i><br>
 		In the International Conference on Network Games Control and Optimization <b>(NetGCoop)</b>, 2018.<br>
-		<a href="netgcoop.pdf"><div class="color-button">pdf</div></a>
 	</li><br>
 </ul>
