@@ -18,18 +18,21 @@ permalink: /student/
 <li>MS: Jilin University, BS: Jilin University </li>
 
 </ul>
+
 I also closely work with the following students:
 <ul>
     <li> <b>Thai-Hoang Pham</b> (advisor: Dr. Ping Zhang)</li>
  <li><b>Xue Zheng</b> (advisor: Dr. Aylin Yener) </li>
 
 </ul>
+
+<br>
 <h1>Master and Undergraduate Students</h1>
 <li> <b>Pavan Rauch</b>, CIS Undergraduate</li>
 <li> <b>Zhao Liu</b>, CSE Undergraduate</li>
 
 
-
+<br>
 <h1>Alumni</h1>
 <ul>
 <li> <b>Wenhan</b>, Master 2023</li>
