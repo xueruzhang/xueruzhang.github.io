@@ -9,41 +9,35 @@ Here is my <a href= "https://scholar.google.com/citations?user=PNBO_a4AAAAJ&hl=e
 <h2>2024</h2>
 <ul>
 	<li>
-		<b>Federated Learning with Reduced Information Leakage and Computation.</b><br>
+		<b>Federated Learning with Reduced Information Leakage and Computation.</b> <a href="tmlr.pdf"><div class="color-button">pdf</div></a><br>
 		<i>T. Yin*, X. Tan*, <b>X. Zhang*</b>,M. Khalili and M. Liu</i><br>
 		 In Transactions on Machine Learning Research <b>(TMLR)</b>, 2024.<br>
-		<a href="tmlr.pdf"><div class="color-button">pdf</div></a>
 	</li><br>
 	<li>
-		<b>Algorithmic Decision-Making under Agents with Persistent Improvement.</b><br>
+		<b>Algorithmic Decision-Making under Agents with Persistent Improvement.</b> <a href="aies24-1.pdf"><div class="color-button">pdf</div></a><br>
 		<i>T. Xie, X. Tan and <b>X. Zhang</b></i><br>
 		 In the 7th AAAI Conference on AI, Ethics, and Society <b>(AIES)</b>, 2024.<br>
-		<a href="aies24-1.pdf"><div class="color-button">pdf</div></a>
 	</li><br>
 	<li>
-		<b>Non-linear Welfare-Aware Strategic Learning.</b><br>
+		<b>Non-linear Welfare-Aware Strategic Learning.</b> <a href="aies24.pdf"><div class="color-button">pdf</div></a><br>
 		<i>T. Xie and <b>X. Zhang</b></i><br>
 		 In the 7th AAAI Conference on AI, Ethics, and Society <b>(AIES)</b>, 2024.<br>
-		<a href="aies24.pdf"><div class="color-button">pdf</div></a>
 	</li><br>
 	<li>
-		<b>Privacy-Aware Randomized Quantization via Linear Programming.</b><br>
+		<b>Privacy-Aware Randomized Quantization via Linear Programming.</b> <a href="uai24-1.pdf"><div class="color-button">pdf</div></a><br>
 		<i>Z. Cai, <b>X. Zhang</b> and M. Khalili</i><br>
 		 In the 40th Conference on Uncertainty in Artificial Intelligence <b>(UAI)</b>, 2024.<br>
-		<a href="uai24-1.pdf"><div class="color-button">pdf</div></a>
 	</li><br>
 	<li>
-		<b>Non-stationary Domain Generalization: Theory and Algorithm.</b><br>
+		<b>Non-stationary Domain Generalization: Theory and Algorithm.</b> <a href="uai24.pdf"><div class="color-button">pdf</div></a><br>
 		<i>T. Pham, <b>X. Zhang</b> and P. Zhang</i><br>
 		 In the 40th Conference on Uncertainty in Artificial Intelligence <b>(UAI)</b>, 2024.<br>
-		<a href="uai24.pdf"><div class="color-button">pdf</div></a>
 	</li><br>
 	<li>
-		<b>Performative Federated Learning: A Solution to Model-Dependent and Heterogeneous Distribution Shifts.</b><br>
+		<b>Performative Federated Learning: A Solution to Model-Dependent and Heterogeneous Distribution Shifts.</b> <a href="aaai24.pdf"><div class="color-button">pdf</div></a><br>
 		<i>K. Jin, T. Yin, Z. Chen, Z. Sun, <b>X. Zhang</b>, Y. Liu and M. Liu</i><br>
 		In the 38th AAAI Conference on Artificial Intelligence <b>(AAAI)</b>, 2024.<br>
 		Select as <b>Oral presentation</b>
-		<a href="aaai24.pdf"><div class="color-button">pdf</div></a>
 	</li><br>
 </ul>
 
