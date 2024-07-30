@@ -6,27 +6,37 @@ permalink: /student/
 
 <h1>PhD Students</h1>
 <ul>
- <li>Xuwei Tan </li>
- <li>Tian Xie </li>
-<li>Zhiqun Zuo </li>
-<li> Zhongteng Cai </li>
-<li> Xiukun Wei </li>
+<b>Tian Xie</b>
+<li>MS: Columbia University, BS: University of Michigan and Sun Yat-Sen University </li>
+<b>Xuwei Tan</b>
+<li>BS: East China University of Science and Technology</li>
+<b>Zhiqun Zuo</b>
+<li>MS: Wuhan University, BS: Wuhan University</li>
+<b> Zhongteng Cai</b>
+<li>MS: Sun Yat-Sen University, BS: University of Electronic Science and Technology of China</li>
+<b> Xiukun Wei</b>
+<li>MS: Jilin University, BS: Jilin University </li>
 
 </ul>
 I also closely work with the following students:
 <ul>
-    <li> Thai-Hoang Pham (advisor: Dr. Ping Zhang)</li>
- <li>Xue Zheng (advisor: Dr. Aylin Yener) </li>
+    <li> <b>Thai-Hoang Pham</b> (advisor: Dr. Ping Zhang)</li>
+ <li><b>Xue Zheng</b> (advisor: Dr. Aylin Yener) </li>
 
 </ul>
+<h1>Master and Undergraduate Students</h1>
+<li> <b>Pavan Rauch</b>, CIS Undergraduate</li>
+<li> <b>Zhao Liu</b>, CSE Undergraduate</li>
+
 
 
 <h1>Alumni</h1>
 <ul>
- <li> Rahul Mukthineni, master 2023, Thesis: Leveraging Microsoft Azure Cognitive Services to Unlock Insights from Free-Text Veterinary Medical Records</li>
- <li>Yunqing Qiu, Undergraduate 2022</li>
-  <li>Yizhi Wang, Undergraduate 2021</li>
-  <li>Chris Liu, Undergraduate 2021</li>
+<li> <b>Wenhan</b>, Master 2023</li>
+ <li> <b>Rahul Mukthineni</b>, CSE Master 2023, Thesis: Leveraging Microsoft Azure Cognitive Services to Unlock Insights from Free-Text Veterinary Medical Records</li>
+ <li><b>Yunqing Qiu</b>, CSE Undergraduate 2022</li>
+  <li><b>Yizhi Wang</b>, ECE Undergraduate 2021</li>
+  <li><b>Chris Liu</b>, CSE Undergraduate 2021</li>
 </ul>
 
 <!--

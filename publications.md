@@ -44,17 +44,17 @@ Here is my <a href= "https://scholar.google.com/citations?user=PNBO_a4AAAAJ&hl=e
 <h2>2023</h2>
 <ul>
 	<li>
-		<b>Counterfactually Fair Representation</b> <a href="neurips23.pdf"><div class="color-button">pdf</div></a><br>
+		<b>Counterfactually Fair Representation.</b> <a href="neurips23.pdf"><div class="color-button">pdf</div></a><br>
 		<i>Z. Zuo, M. Khalili and <b>X. Zhang</b> </i><br>
 		In the 37th Conference on Neural Information Processing Systems <b>(NeurIPS)</b>, 2023.<br>
 	</li><br>
 	<li>
-		<b>Loss Balancing for Fair Supervised Learning</b> <a href="icml23.pdf"><div class="color-button">pdf</div></a><br>
+		<b>Loss Balancing for Fair Supervised Learning.</b> <a href="icml23.pdf"><div class="color-button">pdf</div></a><br>
 		<i>M. Khalili, <b>X. Zhang</b> and M. Abroshan</i><br>
 		In 40th International Conference on Machine Learning <b>(ICML)</b>, 2023.<br>
 	</li><br>
 <li>
-		<b>Fairness and Accuracy under Domain Generalization</b> <a href="iclr23.pdf"><div class="color-button">pdf</div></a><br>
+		<b>Fairness and Accuracy under Domain Generalization.</b> <a href="iclr23.pdf"><div class="color-button">pdf</div></a><br>
 		<i>T. Pham, <b>X. Zhang</b> and P. Zhang</i><br>
 		In 11th International Conference on Learning Representations  <b>(ICLR)</b>, 2023.<br>
 	</li><br>
@@ -131,7 +131,7 @@ Learning Approach.</b> <a href="kais23.pdf"><div class="color-button">pdf</div><
 		In the 34th Conference on Neural Information Processing Systems <b>(NeurIPS)</b>, 2020.<br>
 	</li><br>
 	<li>
-		<b>Resource Pooling for Shared Fate: Incentivizing Effort in Interdependent Security Games through Cross-investments.</b><a href="TCNS.pdf"><div class="color-button">pdf</div></a><br>
+		<b>Resource Pooling for Shared Fate: Incentivizing Effort in Interdependent Security Games through Cross-investments.</b> <a href="TCNS.pdf"><div class="color-button">pdf</div></a><br>
 		<i>M. Khalili, <b>X. Zhang</b> and M. Liu</i><br>
 		In IEEE Transactions on Control of Network Systems <b>(TCNS)</b>, 2020.<br>
 	</li><br>
@@ -160,7 +160,7 @@ Learning Approach.</b> <a href="kais23.pdf"><div class="color-button">pdf</div><
 		In IEEE Transactions on Information Forensics and Security <b>(TIFS)</b>, 2019.<br>
 	</li><br>
 		<li>
-		<b>Incentivizing Effort in Interdependent Security Games Using Resource Pooling.</b><a href="netecon-resource.pdf"><div class="color-button">pdf</div></a><br>
+		<b>Incentivizing Effort in Interdependent Security Games Using Resource Pooling.</b> <a href="netecon-resource.pdf"><div class="color-button">pdf</div></a><br>
 		<i>M. Khalili, <b>X. Zhang</b> and M. Liu</i><br>
 		In the 14th Workshop on the Economics of Networks, Systems and Computation <b>(NetEcon)</b>, 2019. <br>
 	</li><br>
@@ -170,12 +170,12 @@ Learning Approach.</b> <a href="kais23.pdf"><div class="color-button">pdf</div><
 		In the 10th Conference on Decision and Game Theory for Security <b>(GameSec)</b>, 2019.<br>
 	</li><br>
 	<li>
-		<b>Long-term Impacts of Fair Machine Learning.</b><a href="fairness-article.pdf"><div class="color-button">pdf</div></a><br>
+		<b>Long-term Impacts of Fair Machine Learning.</b> <a href="fairness-article.pdf"><div class="color-button">pdf</div></a><br>
 		<i><b>X. Zhang</b>, M. Khalili and M. Liu</i><br>
 		In Ergonomics in Design: The Quarterly of Human Factors Applications, 2019.<br>
 	</li><br>
 	<li>
-		<b>Contract Design for Purchasing Private Data Using a Biased Differentially Private Algorithm.</b><a href="netecon-data.pdf"><div class="color-button">pdf</div></a><br>
+		<b>Contract Design for Purchasing Private Data Using a Biased Differentially Private Algorithm.</b> <a href="netecon-data.pdf"><div class="color-button">pdf</div></a><br>
 		<i>M. Khalili*, <b>X. Zhang*</b> and M. Liu</i><br>
 		In the 14th Workshop on the Economics of Networks, Systems and Computation <b>(NetEcon)</b>, 2019.<br>
 	</li><br>
@@ -195,7 +195,7 @@ Learning Approach.</b> <a href="kais23.pdf"><div class="color-button">pdf</div><
 		In the 35th International Conference on Machine Learning <b>(ICML)</b>, 2018.<br>
 	</li><br>
 	<li>
-		<b>Recycled ADMM: Improve Privacy and Accuracy with Less Computation in Distributed Algorithms.</b><a href="allerton.pdf"><div class="color-button">pdf</div></a><br>
+		<b>Recycled ADMM: Improve Privacy and Accuracy with Less Computation in Distributed Algorithms.</b> <a href="allerton.pdf"><div class="color-button">pdf</div></a><br>
 		<i><b>X. Zhang</b>, M. Khalili and M. Liu</i><br>
 		In the 56th Annual Allerton Conference on Communication, Control, and Computing <b>(Allerton)</b>, 2018.<br>
 	</li><br>
