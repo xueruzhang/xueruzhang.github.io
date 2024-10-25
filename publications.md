@@ -9,6 +9,16 @@ Here is my <a href= "https://scholar.google.com/citations?user=PNBO_a4AAAAJ&hl=e
 <h2>2024</h2>
 <ul>
 	<li>
+		<b>Learning under Imitative Strategic Behavior with Unforeseeable Outcomes.</b> <a href=""><div class="color-button">pdf</div></a><br>
+		<i>T. Xie, Z. Zuo, M. Khalili and  <b>X. Zhang</b></i><br>
+		 In Transactions on Machine Learning Research <b>(TMLR)</b>, 2024.<br>
+	</li><br>
+	<li>
+		<b>Automating Data Annotation under Strategic Human Agents: Risks and Potential Solutions.</b> <a href=""><div class="color-button">pdf</div></a><br>
+		<i>T. Xie and <b>X. Zhang*</b></i><br>
+		 In the 38th Conference on Neural Information Processing Systems  <b>(NeurIPS)</b>, 2024.<br>
+	</li><br>
+	<li>
 		<b>Federated Learning with Reduced Information Leakage and Computation.</b> <a href="tmlr.pdf"><div class="color-button">pdf</div></a><br>
 		<i>T. Yin*, X. Tan*, <b>X. Zhang*</b>,M. Khalili and M. Liu</i><br>
 		 In Transactions on Machine Learning Research <b>(TMLR)</b>, 2024.<br>
@@ -17,6 +27,7 @@ Here is my <a href= "https://scholar.google.com/citations?user=PNBO_a4AAAAJ&hl=e
 		<b>Algorithmic Decision-Making under Agents with Persistent Improvement.</b> <a href="aies24-1.pdf"><div class="color-button">pdf</div></a><br>
 		<i>T. Xie, X. Tan and <b>X. Zhang</b></i><br>
 		 In the 7th AAAI Conference on AI, Ethics, and Society <b>(AIES)</b>, 2024.<br>
+		 Select as <b>Oral presentation</b>
 	</li><br>
 	<li>
 		<b>Non-linear Welfare-Aware Strategic Learning.</b> <a href="aies24.pdf"><div class="color-button">pdf</div></a><br>
