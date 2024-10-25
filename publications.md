@@ -15,7 +15,7 @@ Here is my <a href= "https://scholar.google.com/citations?user=PNBO_a4AAAAJ&hl=e
 	</li><br>
 	<li>
 		<b>Automating Data Annotation under Strategic Human Agents: Risks and Potential Solutions.</b> <a href=""><div class="color-button">pdf</div></a><br>
-		<i>T. Xie and <b>X. Zhang*</b></i><br>
+		<i>T. Xie and <b>X. Zhang</b></i><br>
 		 In the 38th Conference on Neural Information Processing Systems  <b>(NeurIPS)</b>, 2024.<br>
 	</li><br>
 	<li>
