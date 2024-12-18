@@ -11,12 +11,12 @@ Here is my <a href= "https://scholar.google.com/citations?user=PNBO_a4AAAAJ&hl=e
 	<li>
 		<b>Open-Set Heterogeneous Domain Adaptation: Theoretical Analysis and Algorithm.</b> <a href="aaai25.pdf"><div class="color-button">pdf</div></a><br>
 		<i>T. Pham, Y. Wang, C. Yin, <b>X. Zhang</b> and P. Zhang</i><br>
-		In the 38th AAAI Conference on Artificial Intelligence <b>(AAAI)</b>, 2025.<br>
+		In the 39th AAAI Conference on Artificial Intelligence <b>(AAAI)</b>, 2025.<br>
 	</li><br>
 	<li>
 		<b>DroughtSet: Understanding Drought through Spatial-Temporal Learning.</b> <a href="aaai25-1.pdf"><div class="color-button">pdf</div></a><br>
 		<i>X. Tan, Q. Zhao, Y. Liu and <b>X. Zhang</b> </i><br>
-		In the 38th AAAI Conference on Artificial Intelligence: Special Track on AI for Social Impact <b>(AAAI-AISI)</b>, 2025.<br>
+		In the 39th AAAI Conference on Artificial Intelligence: Special Track on AI for Social Impact <b>(AAAI-AISI)</b>, 2025.<br>
 	</li><br>
 </ul>
 
