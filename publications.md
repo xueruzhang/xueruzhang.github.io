@@ -42,7 +42,6 @@ Here is my <a href= "https://scholar.google.com/citations?user=PNBO_a4AAAAJ&hl=e
 		<b>Algorithmic Decision-Making under Agents with Persistent Improvement.</b> <a href="aies24-1.pdf"><div class="color-button">pdf</div></a><br>
 		<i>T. Xie, X. Tan and <b>X. Zhang</b></i><br>
 		 In the 7th AAAI Conference on AI, Ethics, and Society <b>(AIES)</b>, <b>Oral presentation</b>, 2024.<br>
-		 Select as <b>Oral presentation</b>
 	</li><br>
 	<li>
 		<b>Non-linear Welfare-Aware Strategic Learning.</b> <a href="aies24.pdf"><div class="color-button">pdf</div></a><br>
