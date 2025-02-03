@@ -7,15 +7,10 @@ permalink: /student/
 <h1>PhD Students</h1>
 <ul>
 <b>Tian Xie</b>
-<li>MS: Columbia University, BS: University of Michigan and Sun Yat-Sen University </li>
 <b>Xuwei Tan</b>
-<li>BS: East China University of Science and Technology</li>
 <b>Zhiqun Zuo</b>
-<li>MS: Wuhan University, BS: Wuhan University</li>
 <b> Zhongteng Cai</b>
-<li>MS: Sun Yat-Sen University, BS: University of Electronic Science and Technology of China</li>
 <b> Xiukun Wei</b>
-<li>MS: Jilin University, BS: Jilin University </li>
 
 </ul>
 
