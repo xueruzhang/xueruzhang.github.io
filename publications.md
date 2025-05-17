@@ -6,8 +6,13 @@ title: Publications
 
 Here is my <a href= "https://scholar.google.com/citations?user=PNBO_a4AAAAJ&hl=en">Google Scholar</a> page.
 
-<h2>2025</h2>
+<h2>Publications</h2>
 <ul>
+	<li>
+		<b>Self-Consuming Generative Models with Adversarially Curated Data.</b> <a href="icml25.pdf"><div class="color-button">pdf</div></a><br>
+		<i>X. Wei and <b>X. Zhang</b></i><br>
+		In the 42nd International Conference on Machine Learning <b>(ICML)</b>, 2025.<br>
+	</li><br>
 	<li>
 		<b>Open-Set Heterogeneous Domain Adaptation: Theoretical Analysis and Algorithm.</b> <a href="aaai25.pdf"><div class="color-button">pdf</div></a><br>
 		<i>T. Pham, Y. Wang, C. Yin, <b>X. Zhang</b> and P. Zhang</i><br>
@@ -18,11 +23,6 @@ Here is my <a href= "https://scholar.google.com/citations?user=PNBO_a4AAAAJ&hl=e
 		<i>X. Tan, Q. Zhao, Y. Liu and <b>X. Zhang</b> </i><br>
 		In the 39th AAAI Conference on Artificial Intelligence: Special Track on AI for Social Impact <b>(AAAI-AISI)</b>, 2025.<br>
 	</li><br>
-</ul>
-
-
-<h2>2024</h2>
-<ul>
 	<li>
 		<b>Learning under Imitative Strategic Behavior with Unforeseeable Outcomes.</b> <a href=""><div class="color-button">pdf</div></a><br>
 		<i>T. Xie, Z. Zuo, M. Khalili and  <b>X. Zhang</b></i><br>
@@ -63,10 +63,6 @@ Here is my <a href= "https://scholar.google.com/citations?user=PNBO_a4AAAAJ&hl=e
 		<i>K. Jin, T. Yin, Z. Chen, Z. Sun, <b>X. Zhang</b>, Y. Liu and M. Liu</i><br>
 		In the 38th AAAI Conference on Artificial Intelligence <b>(AAAI)</b>, <b>Oral presentation</b>, 2024.<br>
 	</li><br>
-</ul>
-
-<h2>2023</h2>
-<ul>
 	<li>
 		<b>Counterfactually Fair Representation.</b> <a href="neurips23.pdf"><div class="color-button">pdf</div></a><br>
 		<i>Z. Zuo, M. Khalili and <b>X. Zhang</b> </i><br>
@@ -82,11 +78,6 @@ Here is my <a href= "https://scholar.google.com/citations?user=PNBO_a4AAAAJ&hl=e
 		<i>T. Pham, <b>X. Zhang</b> and P. Zhang</i><br>
 		In 11th International Conference on Learning Representations  <b>(ICLR)</b>, 2023.<br>
 	</li><br>
-</ul>
-
-
-<h2>2022</h2>
-<ul>
 	<li>
 		<b>A Fair and Interpretable Network for Clinical Risk Prediction: A Regularized Multi-view Multi-task
 Learning Approach.</b> <a href="kais23.pdf"><div class="color-button">pdf</div></a><br>
@@ -109,10 +100,6 @@ Learning Approach.</b> <a href="kais23.pdf"><div class="color-button">pdf</div><
 		<i><b>X. Zhang</b>, M. Khalili and M. Liu</i><br>
 		 ACM Transactions on Privacy and Security <b>(TOPS)</b>, 2022.<br>
 	</li><br>
-</ul>
-
-<h2>2021</h2>
-<ul>
 <li>
 		<b>Socially Responsible Machine Learning: On the Preservation of Individual Privacy and Fairness.</b> <a href="thesis.pdf"><div class="color-button">pdf</div></a><br>
 		<i><b>X. Zhang</b></i><br>
@@ -144,11 +131,6 @@ Learning Approach.</b> <a href="kais23.pdf"><div class="color-button">pdf</div><
 		<i>M. Khalili*, <b>X. Zhang*</b> and M. Liu</i><br>
 		In IEEE Access, 2021.<br>
 	</li><br>
-	
-</ul>
-
-<h2>2020</h2>
-<ul>
 	<li>
 		<b>How Do Fair Decisions Fare in Long-term Qualification?</b> <a href="neurips20.pdf"><div class="color-button">pdf</div></a><br>
 		<i><b>X. Zhang*</b>, R. Tu*, Y. Liu, M. Liu, H. Kjellström, K. Zhang and C. Zhang</i><br>
@@ -166,11 +148,7 @@ Learning Approach.</b> <a href="kais23.pdf"><div class="color-button">pdf</div><
 		In 2020 American Control Conference <b>(ACC)</b>, 2020.<br>
 		<i>ASME Automotive and Transportation Systems <b>Best Paper Award Finalist</b></i><br>
 	</li><br>
-
-</ul>
-
-<h2>2019</h2>
-<ul><li>
+<li>
 		<b>Group Retention when Using Machine Learning in Sequential Decision Making: the Interplay between User Dynamics and Fairness.
 </b><a href="neurips19.pdf"><div class="color-button">pdf</div></a><br>
 		<i><b>X. Zhang*</b>, M. Khalili*, C. Tekin and M. Liu</i><br>
@@ -209,10 +187,6 @@ Learning Approach.</b> <a href="kais23.pdf"><div class="color-button">pdf</div><
 		<i><b>X. Zhang*</b>, C. Huang*, M. Liu, A. Stefanopoulou and T. Ersal </i><br>
 		In IEEE Communications Magazine, 2019.<br>
 	</li><br>
-</ul>
-
-<h2>2018</h2>
-<ul>
 	<li>
 		<b>Improving the Privacy and Accuracy of ADMM-Based Distributed Algorithms.</b> <a href="icml18.pdf"><div class="color-button">pdf</div></a><br>
 		<i><b>X. Zhang</b>, M. Khalili and M. Liu</i><br>
