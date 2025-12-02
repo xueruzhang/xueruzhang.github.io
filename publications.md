@@ -13,10 +13,12 @@ Here is my <a href= "https://scholar.google.com/citations?user=PNBO_a4AAAAJ&hl=e
 		<i>Z. Cai, Y. Wang, Y. Liu and <b>X. Zhang</b> </i><br>
 		In the 40th AAAI Conference on Artificial Intelligence <b>(AAAI)</b>, 2026.<br>
 	</li><br>
+	<li>
 	<b>Addressing Polarization and Unfairness in Performative Prediction.</b> <br>
 		<i>K. Jin, T. Xie, Y. Liu and <b>X. Zhang</b> </i><br>
 		In the 40th AAAI Conference on Artificial Intelligence <b>(AAAI)</b>, 2026.<br>
 	</li><br>
+	<li>
 	<b>Achieving Fairness Without Harm via Selective Demographic Experts.</b> <br>
 		<i>X. Tan†, Y. Wang, T. Pham, P. Zhang and <b>X. Zhang</b> </i><br>
 		In the 40th AAAI Conference on Artificial IntelligenceAI for Social Impact <b>(AAAI-AISI)</b>, 2026.<br>
