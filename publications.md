@@ -8,6 +8,19 @@ Here is my <a href= "https://scholar.google.com/citations?user=PNBO_a4AAAAJ&hl=e
 
 <h2>Publications</h2>
 <ul>
+<li>
+		<b>Stabilizing Self-Consuming Diffusion Models with Latent Space Filtering.</b> <br>
+		<i>Z. Cai, Y. Wang, Y. Liu and <b>X. Zhang</b> </i><br>
+		In the 40th AAAI Conference on Artificial Intelligence <b>(AAAI)</b>, 2026.<br>
+	</li><br>
+	<b>Addressing Polarization and Unfairness in Performative Prediction.</b> <br>
+		<i>K. Jin, T. Xie, Y. Liu and <b>X. Zhang</b> </i><br>
+		In the 40th AAAI Conference on Artificial Intelligence <b>(AAAI)</b>, 2026.<br>
+	</li><br>
+	<b>Achieving Fairness Without Harm via Selective Demographic Experts.</b> <br>
+		<i>X. Tan†, Y. Wang, T. Pham, P. Zhang and <b>X. Zhang</b> </i><br>
+		In the 40th AAAI Conference on Artificial IntelligenceAI for Social Impact <b>(AAAI-AISI)</b>, 2026.<br>
+	</li><br>
 	<li>
 		<b>The Boundaries of Fair AI in Medical Image Prognosis: A Causal Perspective.</b> <br>
 		<i>T. Pham, J. Chen, S. Lee, Y. Wang, S. Moroi, <b>X. Zhang</b> and P. Zhang</i><br>
