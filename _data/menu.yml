@@ -5,19 +5,15 @@
 #- title: "Research"
 #  href: "/research/"
 
+- title: "ETHIC Lab"
+  href: "/student/"
 
-
-#- title: "Service"
-#  href: "/service/"
 
 - title: "Teaching"
   href: "/teaching/"
 
-- title: "Group"
-  href: "/student/"
 
-- title: "CV"
-  href: "/cv/"
+
 
 #- title: "Miscellany"
 #  href: "/miscellany/"
