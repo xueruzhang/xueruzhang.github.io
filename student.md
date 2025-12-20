@@ -13,77 +13,77 @@ Welcome to the <b>Ethical and Trustworthy Human-Intelligent Computing (ETHIC) La
 
 
 <h1>PhD Students</h1>
-<ul style="list-style: none; padding-left: 0;">
- <li style="margin-bottom: 20px;">
-  <img src="/images/students/tian.png"
-     style="float:left; margin-right:15px; width:30%; max-width:200px; height:auto;">
-  <b>Tian Xie</b><br>
-  Tian joined OSU in Fall 2022. His research focuses on trustworthy machine learning, with an emphasis on the long-term fairness and robustness of ML algorithms and generative models. His recent work develops fair, welfare-aware, and robust theoretical frameworks under distribution shifts, as well as safety evaluation benchmarks for large language models. While primarily working on modern ML, Tian also enjoys exploring ancient predictive systems such as BaZi, astrology, and tarot.<br>
-  <a href="https://scholar.google.com/citations?hl=en&user=uKdMUzUAAAAJ">Google Scholar</a>
-  <div style="clear: both;"></div>
-</li>
 
-<li style="margin-bottom: 20px;">
-  <img src="/images/students/xuwei.jpg"
-     style="float:left; margin-right:15px; width:30%; max-width:200px; height:auto;">
-  <b>Xuwei Tan</b><br>
-  Xuwei joined OSU in Fall 2022. His research interests include (large) vision–language models, multimodal learning, trustworthy AI (fairness, privacy, and robustness), and AI for Science. Xuwei's work has applied to high-stakes domains such as healthcare, earth sciences, and finance.<br>
-  <a href="https://www.xuweitan.com/">Personal Website</a>
-  <div style="clear: both;"></div>
-</li>
+<style>
+.student-photo {
+    width: 180px;
+    height: 180px;
+    object-fit: cover; /* ensures images fill box without stretching */
+    float: left;
+    margin-right: 15px;
+    border-radius: 8px; /* optional: rounded corners */
+}
+.student-item {
+    margin-bottom: 40px; /* space between students */
+    overflow: auto; /* ensures clear floats */
+}
+</style>
 
-<li style="margin-bottom: 20px;">
-  <img src="/images/students/zhiqun.jpg"
-     style="float:left; margin-right:15px; width:30%; max-width:200px; height:auto;">
-     <b>Zhiqun Zuo</b><br>
-  Zhiqun joined OSU in Fall 2022. His research centers on algorithmic fairness, spanning counterfactual fairness, observational group fairness, and individual fairness. Zhiqun has explored the relationships among different fairness notions and investigated fairness in strategic environments. More recently, his work has expanded to the alignment of large language models.<br>
-  <a href="https://scholar.google.com/citations?user=KO_1_fsAAAAJ&hl=en">Google Scholar</a>, 
-  <a href="https://www.linkedin.com/in/zhiqun-zuo/">LinkedIn</a>
-  <div style="clear: both;"></div>
-</li>
+<div class="student-item">
+    <img src="/images/students/tian.png" class="student-photo" alt="Tian Xie">
+    <b>Tian Xie</b><br>
+    Tian joined OSU in Fall 2022. His research focuses on trustworthy machine learning, emphasizing long-term fairness and robustness of ML algorithms and generative models. His recent work develops fair, welfare-aware, and robust theoretical frameworks under distribution shifts, as well as safety evaluation benchmarks for large language models. Tian also enjoys exploring ancient predictive systems such as BaZi, astrology, and tarot.<br>
+    <a href="https://scholar.google.com/citations?hl=en&user=uKdMUzUAAAAJ">Google Scholar</a>
+</div>
 
-<li style="margin-bottom: 20px;">
-  <img src="/images/students/zhongteng.jpg"
-     style="float:left; margin-right:15px; width:30%; max-width:200px; height:auto;">
-  <b>Zhongteng Cai</b><br>
-  Zhongteng joined OSU in Fall 2023. His research focuses on socially responsible generative AI, including efficient machine learning, differential privacy, algorithmic fairness, and reliable diffusion models.<br>
-  <a href="https://scholar.google.com/citations?user=oKy0COMAAAAJ&hl=en">Google Scholar</a>
-  <div style="clear: both;"></div>
-</li>
+<div class="student-item">
+    <img src="/images/students/xuwei.jpg" class="student-photo" alt="Xuwei Tan">
+    <b>Xuwei Tan</b><br>
+    Xuwei joined OSU in Fall 2022. His research interests include (large) vision–language models, multimodal learning, trustworthy AI (fairness, privacy, and robustness), and AI for Science. Xuwei's work has applications in healthcare, earth sciences, and finance.<br>
+    <a href="https://www.xuweitan.com/">Personal Website</a>
+</div>
 
-<li style="margin-bottom: 20px;">
-  <img src="/images/students/ding.jpg"
-     style="float:left; margin-right:15px; width:30%; max-width:200px; height:auto;">
-  <b>Ding Zhu</b><br>
-  Ding joined OSU in Spring 2024. His research focuses on efficient and robust machine learning, including learning under class imbalance and AI alignment under noisy feedback. <br>
-  <a href="https://scholar.google.com/citations?user=jW2BUGcAAAAJ&hl=en">Google Scholar</a>
-  <div style="clear: both;"></div>
-</li>
+<div class="student-item">
+    <img src="/images/students/zhiqun.jpg" class="student-photo" alt="Zhiqun Zuo">
+    <b>Zhiqun Zuo</b><br>
+    Zhiqun joined OSU in Fall 2022. His research centers on algorithmic fairness, spanning counterfactual fairness, observational group fairness, and individual fairness. He studies relationships among fairness notions and fairness in strategic environments, and has expanded to aligning large language models.<br>
+    <a href="https://scholar.google.com/citations?user=KO_1_fsAAAAJ&hl=en">Google Scholar</a>, 
+    <a href="https://www.linkedin.com/in/zhiqun-zuo/">LinkedIn</a>
+</div>
 
-<li style="margin-bottom: 20px;">
-  <img src="/images/students/xiukun.jpg"
-     style="float:left; margin-right:15px; width:30%; max-width:200px; height:auto;">
-  <b>Xiukun Wei</b><br>
-  Xiukun joined the group in Fall 2024. Her research lies at the intersection of machine learning  and algorithmic game theory. Research topics include AI safety, robustness and alignment, multi-agent systems, and markets for generative AI systems.<br>
-  <a href="https://scholar.google.com/citations?user=jihDSiYAAAAJ&hl=zh-CN">Google Scholar</a>
-  <div style="clear: both;"></div>
-</li>
+<div class="student-item">
+    <img src="/images/students/zhongteng.jpg" class="student-photo" alt="Zhongteng Cai">
+    <b>Zhongteng Cai</b><br>
+    Zhongteng joined OSU in Fall 2023. His research focuses on socially responsible generative AI, including efficient ML, differential privacy, algorithmic fairness, and reliable diffusion models.<br>
+    <a href="https://scholar.google.com/citations?user=oKy0COMAAAAJ&hl=en">Google Scholar</a>
+</div>
 
-<li style="margin-bottom: 20px;">
-  <img src="/images/students/yang.jpg"
-     style="float:left; margin-right:15px; width:30%; max-width:200px; height:auto;">
-  <b>Yang Zhang</b><br>
-  Yang joined OSU in Fall 2025. His research focuses on the theoretical foundations of AI alignment and trustworthy ML ecosystems with interacting agents.<br>
-  <div style="clear: both;"></div>
-</li>
+<div class="student-item">
+    <img src="/images/students/ding.jpg" class="student-photo" alt="Ding Zhu">
+    <b>Ding Zhu</b><br>
+    Ding joined OSU in Spring 2024. His research focuses on efficient and robust ML, including learning under class imbalance and AI alignment under noisy feedback.<br>
+    <a href="https://scholar.google.com/citations?user=jW2BUGcAAAAJ&hl=en">Google Scholar</a>
+</div>
 
-<li style="margin-bottom: 20px;">
-  <img src="/images/students/shihao.jpg"
-     style="float:left; margin-right:15px; width:30%; max-width:200px; height:auto;">
-  <b>Shihao Wang</b><br>
-  Shihao joined OSU in Fall 2025. His research interests include differential privacy, adversarial machine learning, and the safety of large language models.<br>
-  <div style="clear: both;"></div>
-</li>
+<div class="student-item">
+    <img src="/images/students/xiukun.jpg" class="student-photo" alt="Xiukun Wei">
+    <b>Xiukun Wei</b><br>
+    Xiukun joined the group in Fall 2024. Her research lies at the intersection of ML and algorithmic game theory, including AI safety, robustness, alignment, multi-agent systems, and markets for generative AI systems.<br>
+    <a href="https://scholar.google.com/citations?user=jihDSiYAAAAJ&hl=zh-CN">Google Scholar</a>
+</div>
+
+<div class="student-item">
+    <img src="/images/students/yang.jpg" class="student-photo" alt="Yang Zhang">
+    <b>Yang Zhang</b><br>
+    Yang joined OSU in Fall 2025. His research focuses on the theoretical foundations of AI alignment and trustworthy ML ecosystems with interacting agents.
+</div>
+
+<div class="student-item">
+    <img src="/images/students/shihao.jpg" class="student-photo" alt="Shihao Wang">
+    <b>Shihao Wang</b><br>
+    Shihao joined OSU in Fall 2025. His research interests include differential privacy, adversarial ML, and the safety of large language models.
+</div>
+
 
 
 <br>
