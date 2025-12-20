@@ -39,14 +39,14 @@ Welcome to the <b>Ethical and Trustworthy Human-Intelligent Computing (ETHIC) La
 <div class="student-item">
     <img src="/images/students/xuwei.jpeg" class="student-photo" alt="Xuwei Tan">
     <b>Xuwei Tan</b><br style="line-height:1.5;">
-    Xuwei joined OSU in Fall 2022. His research interests include (large) vision–language models, multimodal learning, trustworthy AI (fairness, privacy, and robustness), and AI for Science. Xuwei's work has applications in healthcare, earth sciences, and finance.<br>
+    Xuwei joined OSU in Fall 2022. His research interests include (large) vision–language models, multimodal learning, trustworthy AI (fairness, privacy, and robustness), and AI for Science. Xuwei's work has bee applied to various domains such as healthcare, earth sciences, and finance.<br>
     <a href="https://www.xuweitan.com/">Personal Website</a>
 </div>
 
 <div class="student-item">
     <img src="/images/students/zhiqun.jpg" class="student-photo" alt="Zhiqun Zuo">
     <b>Zhiqun Zuo</b><br style="line-height:1.5;">
-    Zhiqun joined OSU in Fall 2022. His research centers on algorithmic fairness, spanning counterfactual fairness, observational group fairness, and individual fairness. He studies relationships among fairness notions and fairness in strategic environments, and has expanded to aligning large language models.<br>
+    Zhiqun joined OSU in Fall 2022. His research centers on algorithmic fairness, spanning counterfactual fairness, observational group fairness, and individual fairness. He has explored relationships of different fairness notions and fairness in strategic environments. Recently, he has expanded research to large language models alignment.<br>
     <a href="https://scholar.google.com/citations?user=KO_1_fsAAAAJ&hl=en">Google Scholar</a>, 
     <a href="https://www.linkedin.com/in/zhiqun-zuo/">LinkedIn</a>
 </div>
