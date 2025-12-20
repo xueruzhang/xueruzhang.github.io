@@ -3,7 +3,7 @@ layout: page
 title: ETHIC Lab
 permalink: /student/
 ---
-Welcome to the <b>Ethical and Trustworthy Human-Intelligent Computing (ETHIC) Lab</b>! Our mission is to build trustworthy human–ML ecosystems in which intelligent systems and society actively learn from, influence, and co-evolve with one another toward responsible and socially beneficial outcomes.<br>
+Welcome to the <b>Ethical and Trustworthy Human-Intelligent Computing (ETHIC) Lab</b>! Our mission is to build trustworthy human–ML ecosystems in which intelligent systems and society actively learn from, influence, and co-evolve with one another toward responsible and socially beneficial outcomes.
 
 <img src="/images/students/RS.jpg"
      alt="ETHIC Lab Research Overview"
