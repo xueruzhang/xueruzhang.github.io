@@ -7,7 +7,7 @@ Welcome to the <b>Ethical and Trustworthy Human-Intelligent Computing (ETHIC) La
 
 <img src="/images/students/RS.jpg"
      alt="ETHIC Lab Research Overview"
-     style="width: 70%; max-width: 1100px; display: block; margin: 40px auto;">
+     style="width: 90%; max-width: 1100px; display: block; margin: 40px auto;">
 
 
 
@@ -37,7 +37,7 @@ Welcome to the <b>Ethical and Trustworthy Human-Intelligent Computing (ETHIC) La
 </div>
 
 <div class="student-item">
-    <img src="/images/students/xuwei.jpg" class="student-photo" alt="Xuwei Tan">
+    <img src="/images/students/xuwei.jpeg" class="student-photo" alt="Xuwei Tan">
     <b>Xuwei Tan</b><br>
     Xuwei joined OSU in Fall 2022. His research interests include (large) vision–language models, multimodal learning, trustworthy AI (fairness, privacy, and robustness), and AI for Science. Xuwei's work has applications in healthcare, earth sciences, and finance.<br>
     <a href="https://www.xuweitan.com/">Personal Website</a>
