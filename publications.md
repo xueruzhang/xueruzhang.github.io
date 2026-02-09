@@ -9,6 +9,16 @@ Here is my <a href= "https://scholar.google.com/citations?user=PNBO_a4AAAAJ&hl=e
 <h2>Publications</h2>
 <ul>
 <li>
+		<b>Market Games for Generative Models: Equilibria, Welfare, and Strategic Entry.</b> <br>
+		<i>X. Wei, M. Shi and <b>X. Zhang</b></i><br>
+		In 14th International Conference on Learning Representations  <b>(ICLR)</b>, 2026.<br>
+</li><br>
+<li>
+		<b>Benchmarking Bias Mitigation Toward Fairness Without Harm from Vision to LVLMs.</b> <br>
+		<i>X. Tan, Z. Hu and <b>X. Zhang</b></i><br>
+		In 14th International Conference on Learning Representations  <b>(ICLR)</b>, 2026.<br>
+</li><br>
+<li>
 		<b>Stabilizing Self-Consuming Diffusion Models with Latent Space Filtering.</b> <br>
 		<i>Z. Cai, Y. Wang, Y. Liu and <b>X. Zhang</b> </i><br>
 		In the 40th AAAI Conference on Artificial Intelligence <b>(AAAI)</b>, 2026.<br>
@@ -20,7 +30,7 @@ Here is my <a href= "https://scholar.google.com/citations?user=PNBO_a4AAAAJ&hl=e
 	</li><br>
 	<li>
 	<b>Achieving Fairness Without Harm via Selective Demographic Experts.</b> <br>
-		<i>X. Tan†, Y. Wang, T. Pham, P. Zhang and <b>X. Zhang</b> </i><br>
+		<i>X. Tan, Y. Wang, T. Pham, P. Zhang and <b>X. Zhang</b> </i><br>
 		In the 40th AAAI Conference on Artificial IntelligenceAI for Social Impact <b>(AAAI-AISI)</b>, 2026.<br>
 	</li><br>
 	<li>

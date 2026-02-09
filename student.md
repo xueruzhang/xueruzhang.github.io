@@ -84,6 +84,11 @@ Welcome to the <b>Ethical and Trustworthy Human-Intelligent Computing (ETHIC) La
     Shihao joined OSU in Fall 2025. His research interests include differential privacy, adversarial ML, and the safety of large language models.
 </div>
 
+<div class="student-item">
+    <img src="/images/students/elena.jpg" class="student-photo" alt="Elnaz Nowrouzi">
+    <b>Elnaz Nowrouzi</b><br style="line-height:1.5;">
+    Elnaz joined OSU in Fall 2023. Her research interests broadly span machine learning and trustworthy AI. She is interested in the design and analysis of reliable and responsible intelligent systems, with general interests in robustness, alignment, and human-centered considerations. In addition to her research interests, she has experience in software engineering and mobile application development.
+</div>
 
 
 <br>
