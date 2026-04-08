@@ -117,7 +117,7 @@ Welcome to the <b>Ethical and Trustworthy Human-Intelligent Computing (ETHIC) La
  <li><b>Yunqing Qiu</b>, CSE Undergraduate 2022</li>
   <li><b>Yizhi Wang</b>, ECE Undergraduate 2021</li>
   <li><b>Chris Liu</b>, CSE Undergraduate 2021</li>
-</ul>
+
 
 <!--
 <p style="float: left; font-size: 12pt; text-align: center; width: 20%; margin-right: 10%; margin-bottom: 1em;"><img src="/images/you.jpeg" style="width: 100%">Your name can be here </p>

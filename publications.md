@@ -43,6 +43,10 @@ Here is my <a href= "https://scholar.google.com/citations?user=PNBO_a4AAAAJ&hl=e
 		<i>X. Tan, Y. Wang, T. Pham, P. Zhang and <b>X. Zhang</b> </i><br>
 		In the 40th AAAI Conference on Artificial IntelligenceAI for Social Impact <b>(AAAI-AISI)</b>, 2026.<br>
 	</li><br>
+<b>Federated Learning Under Evolving Distribution Shifts</b> <br>
+		<i>X Tan, T Xie, X Zheng, A Yener, M Lee, A Payani, H Latapie and <b>X. Zhang</b> </i><br>
+		In  <b>Entropy</b>, 2026.<br>
+	</li><br>
 	<li>
 		<b>The Boundaries of Fair AI in Medical Image Prognosis: A Causal Perspective.</b> <br>
 		<i>T. Pham, J. Chen, S. Lee, Y. Wang, S. Moroi, <b>X. Zhang</b> and P. Zhang</i><br>
