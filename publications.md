@@ -43,7 +43,7 @@ Here is my <a href= "https://scholar.google.com/citations?user=PNBO_a4AAAAJ&hl=e
 		<i>X. Tan, Y. Wang, T. Pham, P. Zhang and <b>X. Zhang</b> </i><br>
 		In the 40th AAAI Conference on Artificial IntelligenceAI for Social Impact <b>(AAAI-AISI)</b>, 2026.<br>
 	</li><br>
-<b>Federated Learning Under Evolving Distribution Shifts</b> <br>
+<li><b>Federated Learning Under Evolving Distribution Shifts</b> <br>
 		<i>X Tan, T Xie, X Zheng, A Yener, M Lee, A Payani, H Latapie and <b>X. Zhang</b> </i><br>
 		In  <b>Entropy</b>, 2026.<br>
 	</li><br>
