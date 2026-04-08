@@ -9,6 +9,16 @@ Here is my <a href= "https://scholar.google.com/citations?user=PNBO_a4AAAAJ&hl=e
 <h2>Publications</h2>
 <ul>
 <li>
+		<b>Observations and Remedies for Large Language Model Bias in Self-Consuming Performative Loop.</b> <br>
+		<i>Y. Wang, Z. Cai, Y. Bao, <b>X. Zhang</b> and Y. Liu</i><br>
+		In the 64th Annual Meeting of the Association for Computational Linguistics <b>(ACL)</b>, 2026.<br>
+</li><br>
+<li>
+		<b>Understanding Structured Financial Data with LLMs: A Case Study on Fraud Detection..</b> <br>
+		<i>X. Tan, Y. Ma and <b>X. Zhang</b></i><br>
+		In the 64th Annual Meeting of the Association for Computational Linguistics <b>(ACL)</b>, 2026.<br>
+</li><br>
+<li>
 		<b>Market Games for Generative Models: Equilibria, Welfare, and Strategic Entry.</b> <br>
 		<i>X. Wei, M. Shi and <b>X. Zhang</b></i><br>
 		In 14th International Conference on Learning Representations  <b>(ICLR)</b>, 2026.<br>

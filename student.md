@@ -12,7 +12,7 @@ Welcome to the <b>Ethical and Trustworthy Human-Intelligent Computing (ETHIC) La
 
 
 
-<h1>PhD Students</h1>
+<h1>Current PhD Students</h1>
 
 <style>
 .student-photo {
@@ -29,26 +29,12 @@ Welcome to the <b>Ethical and Trustworthy Human-Intelligent Computing (ETHIC) La
 }
 </style>
 
-<div class="student-item">
-    <img src="/images/students/tian.png" class="student-photo" alt="Tian Xie">
-    <b>Tian Xie</b><br style="line-height:1.5;">
-    Tian joined OSU in Fall 2022. His research focuses on trustworthy machine learning, emphasizing long-term fairness and robustness of ML algorithms and generative models. His recent work develops fair, welfare-aware, and robust theoretical frameworks under distribution shifts, as well as safety evaluation benchmarks for large language models. Tian also enjoys exploring ancient predictive systems such as BaZi, astrology, and tarot.<br>
-    <a href="https://scholar.google.com/citations?hl=en&user=uKdMUzUAAAAJ">Google Scholar</a>
-</div>
 
 <div class="student-item">
     <img src="/images/students/xuwei.jpeg" class="student-photo" alt="Xuwei Tan">
     <b>Xuwei Tan</b><br style="line-height:1.5;">
     Xuwei joined OSU in Fall 2022. His research interests include (large) vision–language models, multimodal learning, trustworthy AI (fairness, privacy, and robustness), and AI for Science. Xuwei's work has bee applied to various domains such as healthcare, earth sciences, and finance.<br>
     <a href="https://www.xuweitan.com/">Personal Website</a>
-</div>
-
-<div class="student-item">
-    <img src="/images/students/zhiqun.jpg" class="student-photo" alt="Zhiqun Zuo">
-    <b>Zhiqun Zuo</b><br style="line-height:1.5;">
-    Zhiqun joined OSU in Fall 2022. His research centers on algorithmic fairness, spanning counterfactual fairness, observational group fairness, and individual fairness. He has explored relationships of different fairness notions and fairness in strategic environments. Recently, he has expanded research to large language models alignment.<br>
-    <a href="https://scholar.google.com/citations?user=KO_1_fsAAAAJ&hl=en">Google Scholar</a>, 
-    <a href="https://www.linkedin.com/in/zhiqun-zuo/">LinkedIn</a>
 </div>
 
 <div class="student-item">
@@ -90,20 +76,44 @@ Welcome to the <b>Ethical and Trustworthy Human-Intelligent Computing (ETHIC) La
     Elnaz joined OSU in Fall 2023. Her research interests broadly span machine learning and trustworthy AI. She is interested in the design and analysis of reliable and responsible intelligent systems, with general interests in robustness, alignment, and human-centered considerations. In addition to her research interests, she has experience in software engineering and mobile application development.
 </div>
 
+<h1>Graduated PhD Students</h1>
+<style>
+.student-photo {
+    width: 180px;
+    height: 180px;
+    object-fit: cover; /* ensures images fill box without stretching */
+    float: left;
+    margin-right: 15px;
+    border-radius: 8px; /* optional: rounded corners */
+}
+.student-item {
+    margin-bottom: 40px; /* space between students */
+    overflow: auto; /* ensures clear floats */
+}
+</style>
+
+<div class="student-item">
+    <img src="/images/students/tian.png" class="student-photo" alt="Tian Xie">
+    <b>Tian Xie (Fall 2022 - Spring 2026) 🎓 </b><br style="line-height:1.5;">
+    Tian conducted research on trustworthy machine learning, focusing on long-term fairness and robustness of ML algorithms and generative models. His work included developing fair, welfare-aware, and robust theoretical frameworks under distribution shifts, as well as safety evaluation benchmarks for large language models. Tian also enjoys exploring ancient predictive systems such as BaZi, astrology, and tarot.<br>
+    <a href="https://scholar.google.com/citations?hl=en&user=uKdMUzUAAAAJ">Google Scholar</a>
+</div>
+<div class="student-item">
+    <img src="/images/students/zhiqun.jpg" class="student-photo" alt="Zhiqun Zuo">
+    <b>Zhiqun Zuo (Fall 2022 - Spring 2026) 🎓 </b><br style="line-height:1.5;">
+    Zhiqun focused on algorithmic fairness, covering counterfactual fairness, observational group fairness, and individual fairness. He studied relationships among different fairness notions and fairness in strategic environments, and extended his work to alignment of large language models.<br>
+    <a href="https://scholar.google.com/citations?user=KO_1_fsAAAAJ&hl=en">Google Scholar</a>, 
+    <a href="https://www.linkedin.com/in/zhiqun-zuo/">LinkedIn</a>
+</div>
 
 <br>
-<h1>Master and Undergraduate Students</h1>
-<li> <b>Dustin Shi </b>, CSE Master</li>
-<li> <b>Tianyuan Liang </b>, CSE Master</li>
-<li> <b>Pavan Rauch</b>, CIS Undergraduate</li>
-<li> <b>Zhao Liu</b>, CSE Undergraduate</li>
-
-
-<br>
-<h1>Alumni</h1>
-<ul>
-<li> <b>Wenhan</b>, Master 2023</li>
+<h1>MSc and Undergraduate Students</h1>
+<li> <b>Dustin Shi </b>, CSE Master 2026</li>
+<li> <b>Tianyuan Liang </b>, CSE Master 2026 </li>
+<li> <b>Zhao Liu</b>, CSE Undergraduate 2025</li>
+<li> <b>Wenhan</b>, CSE Master 2023</li>
  <li> <b>Rahul Mukthineni</b>, CSE Master 2023, Thesis: Leveraging Microsoft Azure Cognitive Services to Unlock Insights from Free-Text Veterinary Medical Records</li>
+ <li> <b>Pavan Rauch</b>, CIS Undergraduate 2025</li>
  <li><b>Yunqing Qiu</b>, CSE Undergraduate 2022</li>
   <li><b>Yizhi Wang</b>, ECE Undergraduate 2021</li>
   <li><b>Chris Liu</b>, CSE Undergraduate 2021</li>
