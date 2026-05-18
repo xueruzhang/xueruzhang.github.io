@@ -93,7 +93,7 @@ Welcome to the <b>Ethical and Trustworthy Human-Intelligent Computing (ETHIC) La
 </style>
 
 <div class="student-item">
-    <img src="/images/students/tian.png" class="student-photo" alt="Tian Xie">
+    <img src="/images/students/tian1.JPG" class="student-photo" alt="Tian Xie">
     <b>Tian Xie (Fall 2022 - Spring 2026) 🎓 </b><br style="line-height:1.5;">
     Tian conducted research on trustworthy machine learning, focusing on long-term fairness and robustness of ML algorithms and generative models. His work included developing fair, welfare-aware, and robust theoretical frameworks under distribution shifts, as well as safety evaluation benchmarks for large language models. Tian also enjoys exploring ancient predictive systems such as BaZi, astrology, and tarot.<br>
     <a href="https://scholar.google.com/citations?hl=en&user=uKdMUzUAAAAJ">Google Scholar</a>

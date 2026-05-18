@@ -9,6 +9,16 @@ Here is my <a href= "https://scholar.google.com/citations?user=PNBO_a4AAAAJ&hl=e
 <h2>Publications</h2>
 <ul>
 <li>
+		<b>PRISM: Gauge-Invariant Tangent-Space Differentially Private LoRA.</b> <br>
+		<i> S. Wang and <b>X. Zhang</b></i><br>
+		In the 43rd International Conference on Machine Learning <b>(ICML)</b>, <b>Spotlight</b>, 2026.<br>
+</li><br>
+<li>
+		<b>When and How Human Curation Backfires: Preference Alignment under Multi-Model Self-Consuming Loop.</b> <br>
+		<i> Y. Zhang, X. Wei and <b>X. Zhang</b></i><br>
+		In the 43rd International Conference on Machine Learning <b>(ICML)</b>, 2026.<br>
+</li><br>
+<li>
 		<b>Observations and Remedies for Large Language Model Bias in Self-Consuming Performative Loop.</b> <br>
 		<i>Y. Wang, Z. Cai, Y. Bao, <b>X. Zhang</b> and Y. Liu</i><br>
 		In the 64th Annual Meeting of the Association for Computational Linguistics <b>(ACL)</b>, 2026.<br>
@@ -96,7 +106,7 @@ for LLMs.</b><br>
 	<li>
 		<b>Algorithmic Decision-Making under Agents with Persistent Improvement.</b> <br>
 		<i>T. Xie, X. Tan and <b>X. Zhang</b></i><br>
-		 In the 7th AAAI Conference on AI, Ethics, and Society <b>(AIES)</b>, <b>Oral presentation</b>, 2024.<br>
+		 In the 7th AAAI Conference on AI, Ethics, and Society <b>(AIES)</b>, <b>Oral</b>, 2024.<br>
 	</li><br>
 	<li>
 		<b>Non-linear Welfare-Aware Strategic Learning.</b><br>
@@ -116,7 +126,7 @@ for LLMs.</b><br>
 	<li>
 		<b>Performative Federated Learning: A Solution to Model-Dependent and Heterogeneous Distribution Shifts.</b> <br>
 		<i>K. Jin, T. Yin, Z. Chen, Z. Sun, <b>X. Zhang</b>, Y. Liu and M. Liu</i><br>
-		In the 38th AAAI Conference on Artificial Intelligence <b>(AAAI)</b>, <b>Oral presentation</b>, 2024.<br>
+		In the 38th AAAI Conference on Artificial Intelligence <b>(AAAI)</b>, <b>Oral</b>, 2024.<br>
 	</li><br>
 	<li>
 		<b>Counterfactually Fair Representation.</b> <br>
