@@ -11,7 +11,7 @@ Here is my <a href= "https://scholar.google.com/citations?user=PNBO_a4AAAAJ&hl=e
 <li>
 		<b>PRISM: Gauge-Invariant Tangent-Space Differentially Private LoRA.</b> <br>
 		<i> S. Wang and <b>X. Zhang</b></i><br>
-		In the 43rd International Conference on Machine Learning <b>(ICML)</b>, <b>Spotlight</b>, 2026.<br>
+		In the 43rd International Conference on Machine Learning <b>(ICML)</b>, <b>Oral</b>, 2026.<br>
 </li><br>
 <li>
 		<b>When and How Human Curation Backfires: Preference Alignment under Multi-Model Self-Consuming Loop.</b> <br>
