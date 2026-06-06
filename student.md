@@ -45,6 +45,12 @@ Welcome to the <b>Ethical and Trustworthy Human-Intelligent Computing (ETHIC) La
 </div>
 
 <div class="student-item">
+    <img src="/images/students/suchit.JPG" class="student-photo" alt="Suchit Gupte">
+    <b>Suchit Gupte </b><br style="line-height:1.5;">
+    Suchit Gupte joined OSU in Fall 2023. His research interests include mechanistic interpretability, data-centric AI, and reinforcement learning for large language models.<br>
+</div>
+
+<div class="student-item">
     <img src="/images/students/ding.jpg" class="student-photo" alt="Ding Zhu">
     <b>Ding Zhu</b><br style="line-height:1.5;">
     Ding joined OSU in Spring 2024. His research focuses on efficient and robust ML, including learning under class imbalance and AI alignment under noisy feedback.<br>
