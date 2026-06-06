@@ -100,7 +100,7 @@ Welcome to the <b>Ethical and Trustworthy Human-Intelligent Computing (ETHIC) La
 </div>
 <div class="student-item">
     <img src="/images/students/zhiqun1.jpg" class="student-photo" alt="Zhiqun Zuo">
-    <b>Zhiqun Zuo (Fall 2022 - Spring 2026) 🎓 </b><br style="line-height:1.5;">
+    <b>Zhiqun Zuo (Fall 2022 - Spring 2026, Co-advised with Dr. Mahdi Khalili) 🎓 </b><br style="line-height:1.5;">
     Zhiqun focused on algorithmic fairness, covering counterfactual fairness, observational group fairness, and individual fairness. He studied relationships among different fairness notions and fairness in strategic environments, and extended his work to alignment of large language models.<br>
     <a href="https://scholar.google.com/citations?user=KO_1_fsAAAAJ&hl=en">Google Scholar</a>, 
     <a href="https://www.linkedin.com/in/zhiqun-zuo/">LinkedIn</a>
