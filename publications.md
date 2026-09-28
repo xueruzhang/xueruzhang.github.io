@@ -9,6 +9,35 @@ Here is my <a href= "https://scholar.google.com/citations?user=PNBO_a4AAAAJ&hl=e
 <h2>Publications</h2>
 <ul>
 <li>
+		<b>Stability and Diversity of Networked Self-Consuming Generative Ecosystems.</b> <br>
+		<i> X. Wei, Y. Zhang and <b>X. Zhang</b></i><br>
+		In the 40th Conference on Neural Information Processing Systems <b>(NeurIPS)</b>, 2026.<br>
+</li><br>
+
+<li>
+		<b>PORT: Preference Optimization via Robust Token-Level Reweighting.</b> <br>
+		<i> D. Zhu, X. Wei, T. Xie, Z. Zhu, <b>X. Zhang</b> and M. Khalili</i><br>
+		In the 40th Conference on Neural Information Processing Systems <b>(NeurIPS)</b>, 2026.<br>
+</li><br>
+
+<li>
+		<b>Self-Consuming Generative Models with Co-Evolving Human Preferences.</b> <br>
+		<i> X. Wei, T. Xie, D. Zhu and <b>X. Zhang</b></i><br>
+		In the 40th Conference on Neural Information Processing Systems <b>(NeurIPS)</b>, 2026.<br>
+</li><br>
+
+<li>
+		<b>BRAID: Learning Equilibrium Maps in Interdependent Security Games via Weight-Tied Iterative Graph Neural Networks.</b> <br>
+		<i> E. Nowrouzi, Z. Zuo, <b>X. Zhang</b> and M. Khalili</i><br>
+		In the 17th Conference on Game Theory and AI for Security <b>(GameSec)</b>, 2026.<br>
+</li><br>
+
+<li>
+		<b>When Pruning Meets Interpretability: Preserving Sparse Autoencoder Robustness in LLMs.</b> <br>
+		<i> S. Gupte, <b>X. Zhang</b> and M. Khalili</i><br>
+		In the 3rd Conference on Language Modeling <b>(COLM)</b>, 2026.<br>
+</li><br>
+<li>
 		<b>PRISM: Gauge-Invariant Tangent-Space Differentially Private LoRA.</b> <br>
 		<i> S. Wang and <b>X. Zhang</b></i><br>
 		In the 43rd International Conference on Machine Learning <b>(ICML)</b>, <b>Oral</b>, 2026.<br>
@@ -87,6 +116,11 @@ for LLMs.</b><br>
 		<b>DroughtSet: Understanding Drought through Spatial-Temporal Learning.</b> <br>
 		<i>X. Tan, Q. Zhao, Y. Liu and <b>X. Zhang</b> </i><br>
 		In the 39th AAAI Conference on Artificial Intelligence: Special Track on AI for Social Impact <b>(AAAI-AISI)</b>, 2025.<br>
+	</li><br>
+<li>
+		<b>Lookahead Counterfactual Fairness.</b> <br>
+		<i>Z. Zuo, T. Xie, X. Tan, <b>X. Zhang</b> and M. Khalili</i><br>
+		 In Transactions on Machine Learning Research <b>(TMLR)</b>, 2024.<br>
 	</li><br>
 	<li>
 		<b>Learning under Imitative Strategic Behavior with Unforeseeable Outcomes.</b> <br>
