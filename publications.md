@@ -8,6 +8,19 @@ Here is my <a href= "https://scholar.google.com/citations?user=PNBO_a4AAAAJ&hl=e
 
 <h2>Publications</h2>
 <ul>
+
+<li>
+		<b>SPRINT: Stochastic Performative Prediction With Variance Reduction.</b> <br>
+		<i> T. Xie, D. Zhu, J. Liu, M. Khalili and <b>X. Zhang</b></i><br>
+		In Transactions on Machine Learning Research <b>(TMLR)</b>, 2026.<br>
+</li><br>
+
+<li>
+		<b>ProFL: Performative Robust Optimal Federated Learning.</b> <br>
+		<i>X. Zheng, T. Xie, X. Tan, <b>X. Zhang</b> and A. Yener</i><br>
+		In IEEE Transactions on Signal Processing <b>(TSP)</b>, 2026.<br>
+</li><br>
+
 <li>
 		<b>Stability and Diversity of Networked Self-Consuming Generative Ecosystems.</b> <br>
 		<i> X. Wei, Y. Zhang and <b>X. Zhang</b></i><br>
