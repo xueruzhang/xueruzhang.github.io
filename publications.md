@@ -10,8 +10,8 @@ Here is my <a href= "https://scholar.google.com/citations?user=PNBO_a4AAAAJ&hl=e
 <ul>
 
 <li>
-		<b>SPRINT: Stochastic Performative Prediction With Variance Reduction.</b> <br>
-		<i> T. Xie, D. Zhu, J. Liu, M. Khalili and <b>X. Zhang</b></i><br>
+		<b>SPRINT-SVRG: Stochastic Performative Prediction With Variance Reduction.</b> <br>
+		<i> T. Xie*, D. Zhu*, J. Liu, M. Khalili and <b>X. Zhang</b></i><br>
 		In Transactions on Machine Learning Research <b>(TMLR)</b>, 2026.<br>
 </li><br>
 
@@ -35,7 +35,7 @@ Here is my <a href= "https://scholar.google.com/citations?user=PNBO_a4AAAAJ&hl=e
 
 <li>
 		<b>Self-Consuming Generative Models with Co-Evolving Human Preferences.</b> <br>
-		<i> X. Wei, T. Xie, D. Zhu and <b>X. Zhang</b></i><br>
+		<i> X. Wei*, T. Xie*, D. Zhu and <b>X. Zhang</b></i><br>
 		In the 40th Conference on Neural Information Processing Systems <b>(NeurIPS)</b>, 2026.<br>
 </li><br>
 
@@ -87,7 +87,7 @@ Here is my <a href= "https://scholar.google.com/citations?user=PNBO_a4AAAAJ&hl=e
 	</li><br>
 	<li>
 	<b>Addressing Polarization and Unfairness in Performative Prediction.</b> <br>
-		<i>K. Jin, T. Xie, Y. Liu and <b>X. Zhang</b> </i><br>
+		<i>K. Jin*, T. Xie*, Y. Liu and <b>X. Zhang</b> </i><br>
 		In the 40th AAAI Conference on Artificial Intelligence <b>(AAAI)</b>, 2026.<br>
 	</li><br>
 	<li>
@@ -96,7 +96,7 @@ Here is my <a href= "https://scholar.google.com/citations?user=PNBO_a4AAAAJ&hl=e
 		In the 40th AAAI Conference on Artificial IntelligenceAI for Social Impact <b>(AAAI-AISI)</b>, 2026.<br>
 	</li><br>
 <li><b>Federated Learning Under Evolving Distribution Shifts</b> <br>
-		<i>X Tan, T Xie, X Zheng, A Yener, M Lee, A Payani, H Latapie and <b>X. Zhang</b> </i><br>
+		<i>X Tan*, T Xie*, X Zheng, A Yener, M Lee, A Payani, H Latapie and <b>X. Zhang</b> </i><br>
 		In  <b>Entropy</b>, 2026.<br>
 	</li><br>
 	<li>
